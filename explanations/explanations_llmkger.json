@@ -1,0 +1,2965 @@
+[
+  {
+    "user": "U_100090",
+    "course": "C_676642",
+    "course_name": "Start a new business",
+    "user_history": [
+      "Introduction to Business: 10 lessons to take you into the business world",
+      "Starting a business",
+      "Green Innovation Theory and Practice",
+      "Marketing changes in the Internet era",
+      "Innovation and Entrepreneurship Practice in the Intelligent Era"
+    ],
+    "concepts": [
+      "Net assets",
+      "Project risk",
+      "Pseudo-demand",
+      "The present value of continuous value",
+      "Performance contract"
+    ],
+    "missing_prereqs": [
+      "Changes in fair value",
+      "Financial assets",
+      "Profit manipulation",
+      "Direct channel"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "Considering your background in \"Introduction to Business\" and \"Starting a business\", I recommend \"Starting a New Enterprise\" to further explore business administration. This course, taught by Professor Jian Gao, aligns with your interests. It's a great next step, building on your knowledge from \"Green Innovation Theory and Practice\" and \"Innovation and Entrepreneurship Practice in the Intelligent Era\"."
+  },
+  {
+    "user": "U_1000902",
+    "course": "C_854866",
+    "course_name": "software engineering",
+    "user_history": [
+      "software testing",
+      "software architecture",
+      "Database Systems (Medium): Modeling and Design",
+      "Database Technology and Programming",
+      "C++ language programming advanced"
+    ],
+    "concepts": [
+      "System class",
+      "Control code",
+      "Enable",
+      "Large data volume",
+      "Design Contract"
+    ],
+    "missing_prereqs": [
+      "Record set",
+      "Window Move",
+      "von Neumann architecture",
+      "Operational expressions"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "You've completed software testing, software architecture, and Database Systems, which is great background for software engineering. This course covers key topics like System class and Feature Model, building on your existing knowledge. Associate Professor Qiang Liu from Tsinghua University will guide you. To prepare, reviewing Record set and von Neumann architecture will be helpful."
+  },
+  {
+    "user": "U_1002389",
+    "course": "C_681066",
+    "course_name": "Basic Human Biology: Cells and Tissues",
+    "user_history": [
+      "Laser and its applications",
+      "Neural network theory and applications",
+      "Flexible electronics technology",
+      "LCD technology",
+      "cognitive neuroscience"
+    ],
+    "concepts": [
+      "Cells and tissues",
+      "Neurons",
+      "Extracellular proteins",
+      "Chemical Signal",
+      "Aquatic channel protein"
+    ],
+    "missing_prereqs": [
+      "The surface of the cell",
+      "Meat leaf cells",
+      "Gel electrophoresis",
+      "Transmembrane transport"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "You've explored various tech and neuroscience fields, including Laser and its applications and Cognitive Neuroscience. Now, diving into Basic Human Biology: Cells and Tissues can offer a fresh, complementary perspective. Femke Buisman-Pijlman's course can help you build a strong foundation, and reviewing The surface of the cell and Gel electrophoresis beforehand will be beneficial."
+  },
+  {
+    "user": "U_100281",
+    "course": "C_697032",
+    "course_name": "English Writing Guidance—Introduction to Writing",
+    "user_history": [
+      "dynamics",
+      "Medicine in the digital age",
+      "Entrepreneurship 102: What can you do for your customers?",
+      "English film and culture",
+      "AP* Test Prep—Biology, Part 3: Evolution and Diversity"
+    ],
+    "concepts": [
+      "blogs",
+      "quotations",
+      "comma",
+      "blog",
+      "verbs."
+    ],
+    "missing_prereqs": [
+      "english language",
+      "previous research",
+      "poets",
+      "start reading"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "I recommend English Writing Guidance—Introduction to Writing, a great next step after your diverse courses like Medicine in the digital age and Entrepreneurship 102. This new direction will help you develop writing skills. Maggie Sokolik will guide you through key topics like comma usage."
+  },
+  {
+    "user": "U_100298",
+    "course": "C_697236",
+    "course_name": "Information literacy - a required course for academic research",
+    "user_history": [
+      "New Classroom in the E Era—Introduction to Online Education",
+      "Introduction to the basic principles of Marxism",
+      "Introduction to \"Zi Zhi Tong Jian\"",
+      "Exploring the Spiritual Origins of Western Philosophy",
+      "An introduction to Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+    ],
+    "concepts": [
+      "Read the full text online",
+      "Source publication analysis",
+      "Source literature language",
+      "Encyclopedia of Great Britain",
+      "Local database"
+    ],
+    "missing_prereqs": [],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "I think you'll find Information Literacy a great next step, building on your interests in courses like Introduction to the Spiritual Origins of Western Philosophy. This new direction will help you navigate academic research. Xiaomu Zeng, an associate research librarian, will guide you."
+  },
+  {
+    "user": "U_10032068",
+    "course": "C_770766",
+    "course_name": "British and American Music and Culture",
+    "user_history": [
+      "Overview of national conditions and culture of Spanish-speaking countries",
+      "Conversational English Skills",
+      "College English seven ability development",
+      "Overview of English-speaking Countries——Overview·Bowen",
+      "Introduction to \"Zi Zhi Tong Jian\""
+    ],
+    "concepts": [
+      "english language",
+      "pieces",
+      "great britain",
+      "aspect",
+      "criticized"
+    ],
+    "missing_prereqs": [
+      "blogs",
+      "adverbs",
+      "blog",
+      "surveying"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "You've already explored English-speaking countries and developed your Conversational English Skills, so British and American Music and Culture is a great next step. This course offers a new direction, delving into music and culture, with Instructor Pingdi Zhou. It's a chance to learn authentic English while discovering your favorite artists."
+  },
+  {
+    "user": "U_1003625",
+    "course": "C_677218",
+    "course_name": "computer network",
+    "user_history": [
+      "Computer culture basics",
+      "Compilation principle",
+      "Assembly language programming",
+      "Data structure (Part 1)",
+      "advanced operating system"
+    ],
+    "concepts": [
+      "Window Move",
+      "Network related",
+      "imap server",
+      "Transmission Service",
+      "Multimedia applications"
+    ],
+    "missing_prereqs": [
+      "Typical power",
+      "Record set",
+      "Information block",
+      "Called function"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "You've completed a solid foundation with Computer culture basics, Compilation principle, and Data structure (Part 1). Now, I recommend exploring Computer network, a new direction that can broaden your skills. Associate Professor 杜广龙 will guide you through key topics like Window Move and Network communication. This course is a great next step, and preparing with Typical power and Record set will be helpful."
+  },
+  {
+    "user": "U_10036806",
+    "course": "C_696724",
+    "course_name": "Probability Theory and Mathematical Statistics",
+    "user_history": [
+      "Calculus - Limit theory and functions of one variable",
+      "Introduction to Chinese Economy",
+      "Living English Reading and Writing",
+      "accounting principles",
+      "Principles of Economics (Micro Part)"
+    ],
+    "concepts": [
+      "Endpoint drop",
+      "Probability calculation deduction",
+      "Non-negative axiom",
+      "Generalized Newtonian binomial formula",
+      "Density function of normal distribution"
+    ],
+    "missing_prereqs": [
+      "Function changes",
+      "Large matrix",
+      "A collection of solutions",
+      "Addition of vectors"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "You've completed a strong foundation in Calculus and Principles of Economics, which will serve you well. Now, I recommend exploring Probability Theory and Mathematical Statistics, a new direction that can enrich your understanding of random phenomena. This course, taught by Associate Professor Heng Liang, can be a great next step."
+  },
+  {
+    "user": "U_1006407",
+    "course": "C_799800",
+    "course_name": "College Physics 2 (Electromagnetism, Optics and Quantum Physics)",
+    "user_history": [
+      "Residential refined design",
+      "College Physics 1 (Mechanics, Thermal)",
+      "Traditional Chinese Medicine and Diagnosis-Learn to be your own doctor",
+      "Precision guide technology",
+      "Introduction to \"Zi Zhi Tong Jian\""
+    ],
+    "concepts": [
+      "Charge distribution given",
+      "Ridber Formula",
+      "Free charge in the conductor",
+      "Radiated electromagnetic waves",
+      "track"
+    ],
+    "missing_prereqs": [
+      "Electrostatic potential",
+      "Simple expression",
+      "Proof function",
+      "Changyi Points"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "You're ready to build on your foundation in College Physics 1 (Mechanics, Thermal). College Physics 2 (Electromagnetism, Optics and Quantum Physics) is a great next step, and Professor 张留碗 will guide you through it. This course will introduce new concepts, and reviewing electrostatic potential will be helpful preparation."
+  },
+  {
+    "user": "U_10098636",
+    "course": "C_676932",
+    "course_name": "Introduction to Psychology",
+    "user_history": [
+      "Start a new business",
+      "Enter sex science",
+      "Marketing in life",
+      "China’s real estate development path",
+      "Blockchain and cryptocurrencies"
+    ],
+    "concepts": [
+      "mental representations",
+      "psychology",
+      "temperament",
+      "emotional experiences",
+      "to"
+    ],
+    "missing_prereqs": [],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "I think Introduction to Psychology is a great next step for you, building on your interests in human behavior, as seen in courses like \"Enter sex science\" and \"Marketing in life\". This new direction can bring a fresh perspective. Professor Kaiping Peng will guide you through mental representations, temperament, and more."
+  },
+  {
+    "user": "U_10099604",
+    "course": "C_696487",
+    "course_name": "The world of wine: from grapes to wine",
+    "user_history": [
+      "Beer brewing and culture",
+      "Modern life aesthetics - the way of floral tea",
+      "Knowledge and Tasting of International Famous Wines",
+      "How to write a good scientific research paper",
+      "military theory"
+    ],
+    "concepts": [
+      "The fermentation process",
+      "Pectin enzyme",
+      "Volatiles",
+      "Olfaction system",
+      "Phenol substances"
+    ],
+    "missing_prereqs": [
+      "Micronutrients"
+    ],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "You've already explored the world of beverages with courses like Beer brewing and culture and Knowledge and Tasting of International Famous Wines. The world of wine: from grapes to wine is a great next step, building on your existing knowledge. Professor Kerry Wilkinson will guide you through this journey. Consider brushing up on micronutrients to get the most out of the course."
+  },
+  {
+    "user": "U_10122723",
+    "course": "C_676932",
+    "course_name": "Introduction to Psychology",
+    "user_history": [
+      "Positive Psychology (Part 1) Virtue and Virtue",
+      "Academic paper literature reading and computer-assisted Chinese-English translation",
+      "Personality and mental disorders - learn to be your own psychiatrist",
+      "Introduction to \"Zi Zhi Tong Jian\"",
+      "Is the design okay?"
+    ],
+    "concepts": [
+      "mental representations",
+      "psychology",
+      "temperament",
+      "emotional experiences",
+      "to"
+    ],
+    "missing_prereqs": [],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "I think you'll really enjoy Introduction to Psychology, building on your interest in Positive Psychology (Part 1) and Personality and mental disorders. This course explores key topics like mental representations and emotional experiences. Professor Kaiping Peng from Tsinghua University leads the course, and your background has provided helpful preparation."
+  },
+  {
+    "user": "U_10135911",
+    "course": "C_737512",
+    "course_name": "Financial Analysis and Valuation",
+    "user_history": [
+      "C++ language programming basics",
+      "Second language acquisition (Chinese version)",
+      "Beginner to proficient in PPT",
+      "Intellectual Property Law and Practice",
+      "Creativity"
+    ],
+    "concepts": [
+      "Net assets",
+      "Cash flow for business activities",
+      "Dividend distribution",
+      "Ebitda",
+      "Dividend Policy"
+    ],
+    "missing_prereqs": [
+      "New business",
+      "China's capital market"
+    ],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "I think you'll find Financial Analysis and Valuation fascinating, building on concepts you've touched on in Intellectual Property Law and Practice. Although it's a new direction from C++ language programming basics and Second language acquisition, this course can enhance your skill set. Professor Xing Xiao from Tsinghua University will guide you through key topics like Net assets and Ebitda."
+  },
+  {
+    "user": "U_10135999",
+    "course": "C_697188",
+    "course_name": "photojournalism",
+    "user_history": [
+      "Basic principles of Marxism",
+      "2017 Tsinghua University graduate thesis defense (1)",
+      "Introduction to \"Zi Zhi Tong Jian\"",
+      "operations management",
+      "An introduction to Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+    ],
+    "concepts": [
+      "Border wire mesh",
+      "Russian Prime Minister",
+      "New Pope Election",
+      "Art creation",
+      "Active analysis"
+    ],
+    "missing_prereqs": [
+      "Symbolism",
+      "Abstract Expressionism",
+      "Modern painting",
+      "Traditional painting"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "I think you'll find photojournalism fascinating, a new direction from your studies like \"Basic principles of Marxism\" and \"Introduction to 'Zi Zhi Tong Jian'\". This course, taught by Associate Professor Junjian Liang, can help you develop new skills. Preparation in areas like Symbolism will be helpful."
+  },
+  {
+    "user": "U_10136534",
+    "course": "C_697073",
+    "course_name": "Marketing in life",
+    "user_history": [
+      "Principles of Economics (Micro Part)",
+      "Marketing",
+      "Microeconomics",
+      "From \"Entrance\" to \"Exit\": Plan your college life",
+      "Principles of Economics (Macro Part)"
+    ],
+    "concepts": [
+      "Marketing process",
+      "Customer service level",
+      "Modern marketing concepts",
+      "Public service advertising",
+      "Inspire consumers"
+    ],
+    "missing_prereqs": [
+      "accounts receivable",
+      "Market construction",
+      "Delay",
+      "Net profit margin"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "Considering your background in Principles of Economics and Marketing, I think \"Marketing in life\" is a great next step. Having completed Microeconomics and Principles of Economics, you're well-prepared to dive deeper into marketing concepts. Associate Professor Yuanyuan Li will guide you through this course, exploring topics like Marketing process and Public service advertising. This course is a new direction, but a great opportunity to apply your knowledge in a new way."
+  },
+  {
+    "user": "U_10139501",
+    "course": "C_707135",
+    "course_name": "evidence-based medicine",
+    "user_history": [
+      "English Writing Guide—Scientific Writing",
+      "The secret of medicine",
+      "Office software applications",
+      "Immortal Art: Entering the Masters and Classics",
+      "English Writing Guidance—Introduction to Writing"
+    ],
+    "concepts": [
+      "Analytical research",
+      "Pulmonary hypertension",
+      "The condition worsens",
+      "Literature evaluation system",
+      "Risk factors study"
+    ],
+    "missing_prereqs": [
+      "Red blood clot",
+      "T lymphocytes b lymphocytes",
+      "Blood stasis",
+      "Capillary congestion and swelling"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "You've already shown a strong foundation in scientific writing through courses like \"English Writing Guide—Scientific Writing\" and \"The secret of medicine\". Now, I recommend exploring \"Evidence-based medicine\" to further develop your critical thinking skills. This new direction can be a great opportunity for growth, and professor 柴湘平's guidance will be valuable."
+  },
+  {
+    "user": "U_1014103",
+    "course": "C_677118",
+    "course_name": "Get closer to China’s excellent traditional culture",
+    "user_history": [
+      "Appreciation of Tang and Song Ci",
+      "audiovisual language",
+      "Appreciation of Chinese film classics",
+      "artistic inspiration",
+      "photojournalism"
+    ],
+    "concepts": [
+      "Historicalist",
+      "Change and innovation",
+      "Motherland Development",
+      "Genetic Code",
+      "Historical allusions"
+    ],
+    "missing_prereqs": [],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "You've explored Chinese culture through courses like Appreciation of Tang and Song Ci and Appreciation of Chinese film classics. Now, discover more with \"Get closer to China's excellent traditional culture\". Professor Liang Zhang will guide you through topics like Historicalist and Historical allusions. This new direction will deepen your understanding of traditional Chinese culture."
+  },
+  {
+    "user": "U_10150455",
+    "course": "C_696994",
+    "course_name": "Living English listening and speaking",
+    "user_history": [
+      "Quantum mechanics (1)",
+      "Appreciation of Chinese modern and contemporary literary masterpieces",
+      "College Physics 2 (Electromagnetism, Optics and Quantum Physics)",
+      "Mathematical Physics Equations and Their Applications",
+      "C++ language programming basics"
+    ],
+    "concepts": [
+      "British Literature",
+      "Hot dishes",
+      "Fluent speaking",
+      "Emotions",
+      "Relieve stress and live a healthy life"
+    ],
+    "missing_prereqs": [
+      "Modify nouns",
+      "Start of sentence",
+      "middle"
+    ],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "I think you'll enjoy \"Living English listening and speaking\" after exploring complex topics like Quantum mechanics and College Physics 2. This course is a great opportunity to shift gears and develop your English skills with Associate Professor Fang Yang. It's a new direction, but with your strong foundation, you can dive into topics like British Literature and Fluent speaking."
+  },
+  {
+    "user": "U_10154512",
+    "course": "C_756642",
+    "course_name": "nursing research methods",
+    "user_history": [
+      "Agricultural Bioenvironmental Engineering",
+      "Chemical Systems Engineering",
+      "New perspectives on Chinese philosophy",
+      "Looking at cities from an economic perspective",
+      "Forage seed science"
+    ],
+    "concepts": [
+      "Peripheral short venous indwelling needle",
+      "Interventional research",
+      "Diabetes disease",
+      "Comparative experiments",
+      "Equilibrium randomization,"
+    ],
+    "missing_prereqs": [
+      "Nephritis",
+      "Oral mucosa",
+      "Main bronchus",
+      "24 hours"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "You're exploring a new field with Nursing Research Methods, a great direction after courses like Agricultural Bioenvironmental Engineering. This shift can bring fresh insights. Instructor 李楠 will guide you through key topics like Peripheral short venous indwelling needle and Interventional research."
+  },
+  {
+    "user": "U_10155786",
+    "course": "C_696692",
+    "course_name": "Investment Banking",
+    "user_history": [
+      "Big data system basics",
+      "operating system",
+      "Assembly language programming",
+      "operations research",
+      "Data structure (Part 1)"
+    ],
+    "concepts": [
+      "Business mechanism",
+      "Investment monetization method",
+      "Subordinate securities",
+      "Debt financing,",
+      "Supervision of investment bank exit"
+    ],
+    "missing_prereqs": [],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "You've built a strong foundation with courses like Data structure and Assembly language programming. Now, you can explore a new field with Investment Banking, led by instructor Hua Lu. This course can broaden your perspective, and your background in operations research can be a helpful asset."
+  },
+  {
+    "user": "U_10156369",
+    "course": "C_697100",
+    "course_name": "Exercise and joint health",
+    "user_history": [
+      "The principles and methods of traditional Chinese medicine",
+      "Positive Psychology (Part 1) Virtue and Virtue",
+      "Introduction to Tennis Techniques",
+      "Reading ancient poems today",
+      "Ancient Chinese Etiquette Civilization—Etiquette Classics"
+    ],
+    "concepts": [
+      "Knee joint",
+      "Dorsal muscle group",
+      "Increase muscle",
+      "Anterior muscle group",
+      "Close muscle group"
+    ],
+    "missing_prereqs": [],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "I think you'll find \"Exercise and joint health\" fascinating, especially after exploring \"Introduction to Tennis Techniques\". This course is a great next step, and Professor Guiping Jiang will guide you through it. It's a new direction, but your background in \"The principles and methods of traditional Chinese medicine\" may provide interesting insights."
+  },
+  {
+    "user": "U_10158440",
+    "course": "C_676659",
+    "course_name": "The journey of aesthetics",
+    "user_history": [
+      "Logical thinking and writing",
+      "Art Economics",
+      "Outline of Modern Chinese History",
+      "Intellectual Property Law and Practice",
+      "portrait photography"
+    ],
+    "concepts": [
+      "Landlord society",
+      "Art sports",
+      "Bronze sculpture",
+      "process",
+      "The literary and artistic forms of socialism"
+    ],
+    "missing_prereqs": [
+      "evidence",
+      "Determinist",
+      "Philosophical Theory",
+      "Development of Western Philosophy"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "I think you'll find \"The Journey of Aesthetics\" fascinating, building on your interests in art and history, as seen in \"Art Economics\" and \"Outline of Modern Chinese History\". This new direction into philosophy will be a great exploration. Associate Professor Songlin Shuai will guide you through key topics like \"Bronze sculpture\" and \"The literary and artistic forms of socialism\"."
+  },
+  {
+    "user": "U_10171187",
+    "course": "C_677159",
+    "course_name": "Introduction to film and television production",
+    "user_history": [
+      "Assembly language programming",
+      "Digital integrated circuit analysis and design",
+      "theoretical mechanics",
+      "Web front-end siege lion",
+      "Electrical technology"
+    ],
+    "concepts": [
+      "Design collar",
+      "Emotional values",
+      "Manufacturing expectations",
+      "Art creation",
+      "Active analysis"
+    ],
+    "missing_prereqs": [
+      "Shooting skills",
+      "Blind shot",
+      "Pulitzer Prize",
+      "Traditional painting"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "You're taking a new direction with Introduction to film and television production, which is exciting. Your background in Assembly language programming and Digital integrated circuit analysis and design shows your technical skills, but this course will tap into your creative side with topics like Art creation. Associate Professor Junjian Liang will guide you."
+  },
+  {
+    "user": "U_10172663",
+    "course": "C_696954",
+    "course_name": "Introduction to Business: 10 lessons to take you into the business world",
+    "user_history": [
+      "CATTI Translation Qualification Level Test Written Translation Preparation Basic Course",
+      "Principles of Economics (Macro Part)",
+      "Appreciation of Chinese modern and contemporary literary masterpieces",
+      "Sports and society",
+      "Microsoft--Computer Vision Paper Sharing Class"
+    ],
+    "concepts": [
+      "Convert power supply",
+      "Create products",
+      "Meituan Financing",
+      "Electrostatic copier",
+      "Film photography"
+    ],
+    "missing_prereqs": [],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "You're taking a new step with Introduction to Business, a great direction to explore. Having completed courses like CATTI Translation Qualification Level Test Written Translation Preparation Basic Course and Principles of Economics, you're ready for this introduction. Associate Professor Hengyuan Zhu will guide you through key topics."
+  },
+  {
+    "user": "U_10173293",
+    "course": "C_696787",
+    "course_name": "Engineering Thermodynamics (Part 1)",
+    "user_history": [
+      "Automatic control theory (2)",
+      "Concise Linear Algebra",
+      "Introduction to \"Zi Zhi Tong Jian\"",
+      "Information literacy - a required course for academic research",
+      "Tsinghua Department Overview"
+    ],
+    "concepts": [
+      "Quasi-static volume change work",
+      "Kano Counter-Circulation",
+      "Isovolume heating cycle",
+      "Entropy change in isolated systems",
+      "Ideal gas isentropic process"
+    ],
+    "missing_prereqs": [],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "You're taking a new step with Engineering Thermodynamics (Part 1), a great follow-up to your studies in Automatic control theory. This course, taught by Professor Xiaomin Wu, will introduce you to key topics like Quasi-static volume change work and Entropy change in isolated systems. Your background in Concise Linear Algebra will be helpful."
+  },
+  {
+    "user": "U_10173963",
+    "course": "C_697188",
+    "course_name": "photojournalism",
+    "user_history": [
+      "Chinese as a foreign language",
+      "Subject English",
+      "Japanese - travel freely in Japan",
+      "Entrepreneurship 102: What can you do for your customers?",
+      "Overview of English-speaking Countries——Overview·Bowen"
+    ],
+    "concepts": [
+      "Border wire mesh",
+      "Russian Prime Minister",
+      "New Pope Election",
+      "Art creation",
+      "Active analysis"
+    ],
+    "missing_prereqs": [
+      "Symbolism",
+      "Abstract Expressionism",
+      "Modern painting",
+      "Traditional painting"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "You've explored languages like Chinese as a foreign language and Japanese, and delved into entrepreneurship. Now, photojournalism can be a fascinating new direction, allowing you to develop your aesthetic skills. With a foundation in Subject English, you'll appreciate the storytelling aspect of photojournalism, and Associate Professor Junjian Liang will guide you."
+  },
+  {
+    "user": "U_10176411",
+    "course": "C_696994",
+    "course_name": "Living English listening and speaking",
+    "user_history": [
+      "Marketing: A course everyone needs",
+      "organic chemistry",
+      "Innovative drug research and development and industrialization",
+      "Academic English",
+      "Concise Linear Algebra"
+    ],
+    "concepts": [
+      "British Literature",
+      "Hot dishes",
+      "Fluent speaking",
+      "Emotions",
+      "Relieve stress and live a healthy life"
+    ],
+    "missing_prereqs": [
+      "Modify nouns",
+      "Start of sentence",
+      "middle"
+    ],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "I think you'll enjoy Living English listening and speaking, a great next step after Academic English. This course offers a fresh direction, exploring everyday topics. With Instructor Fang Yang's guidance, you'll build on your Concise Linear Algebra and Academic English foundations."
+  },
+  {
+    "user": "U_10177106",
+    "course": "C_696626",
+    "course_name": "Chinese Language in University - Appreciation of Literature from Pre-Qin to Tang Dynasty",
+    "user_history": [
+      "An introduction to the basic situation of my country’s 14 neighboring countries on land",
+      "History of Foreign Arts and Crafts",
+      "Appreciation and creation of Chinese meticulous figure paintings",
+      "Aircraft carriers and carrier-based aircraft of major powers",
+      "History of Chinese Architecture—Yuan, Ming and Qing Dynasties and Folk Residences"
+    ],
+    "concepts": [
+      "Don't ask for a lot of explanation",
+      "A faint voice",
+      "Symbol",
+      "Liu Lang",
+      "Heard that the official army conquered Henan and Hebei"
+    ],
+    "missing_prereqs": [
+      "Inner cultivation",
+      "The world of the world",
+      "Original thinking",
+      "Minister of Organization"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "I think you'll find \"Chinese Language in University - Appreciation of Literature from Pre-Qin to Tang Dynasty\" fascinating, building on your artistic appreciation from \"Appreciation and creation of Chinese meticulous figure paintings\". This new direction explores literature, and preparing with \"Inner cultivation\" and \"The world of the world\" will be helpful. Distinguished Professor Bugao Wang will guide you."
+  },
+  {
+    "user": "U_10182453",
+    "course": "C_769293",
+    "course_name": "Data structure (Part 1)",
+    "user_history": [
+      "economic principles",
+      "C++ language programming advanced",
+      "Legal knowledge related to equity financing",
+      "C++ based on Linux",
+      "Learn to make small programs - basics"
+    ],
+    "concepts": [
+      "Bit matrix",
+      "Breadth priority traversal process",
+      "Prime order",
+      "Circular shift",
+      "The edge number is the same order"
+    ],
+    "missing_prereqs": [
+      "Window Move",
+      "Support process",
+      "virtual space",
+      "Graphics Tool"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "You've completed C++ language programming advanced and C++ based on Linux, which is a great foundation for Data structure (Part 1). This course is a new direction, but a natural next step. Professor Junhui Deng will guide you through key topics like Bit matrix and Breadth priority traversal process."
+  },
+  {
+    "user": "U_10187370",
+    "course": "C_696789",
+    "course_name": "Medical literature search",
+    "user_history": [
+      "Microbiology",
+      "Principles of Medical Immunology",
+      "Living English Reading and Writing",
+      "pathology",
+      "Living English listening and speaking"
+    ],
+    "concepts": [
+      "Subject literature",
+      "Third Medical Literature Search",
+      "Department of Biology",
+      "clinical queries clinical query",
+      "medical genetics"
+    ],
+    "missing_prereqs": [],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "Considering your background in Microbiology and Principles of Medical Immunology, I recommend Medical literature search. This course, taught by Associate Professor 刘雁书, will introduce you to new skills. Your strong foundation in Pathology will be beneficial. This is a new direction, but a great opportunity to expand your knowledge."
+  },
+  {
+    "user": "U_10190306",
+    "course": "C_674903",
+    "course_name": "Immortal Art: Entering the Masters and Classics",
+    "user_history": [
+      "Chinese Language in University - Appreciation of Literature from Pre-Qin to Tang Dynasty",
+      "Exercise and fat loss and body shaping",
+      "Singing Enlightenment and Performance - Teach you to become a singing expert",
+      "Chinese text vocabulary",
+      "Advanced Code of National Vocal Music - Shi Chunxuanzi Teaching Demonstration Class"
+    ],
+    "concepts": [
+      "City scenery",
+      "Minoan civilization",
+      "Art creation",
+      "President of South Africa",
+      "Modernist"
+    ],
+    "missing_prereqs": [
+      "Digital Photos",
+      "Italian Art",
+      "Processing pictures"
+    ],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "I think you'll love \"Immortal Art: Entering the Masters and Classics\" after completing \"Appreciation of Literature from Pre-Qin to Tang Dynasty\". This course explores a new direction, art, with lecturer Jing Sun from Tsinghua University. It builds on your interests, covering topics like \"Art creation\". Preparing with \"Digital Photos\" would be helpful."
+  },
+  {
+    "user": "U_10191494",
+    "course": "C_677236",
+    "course_name": "Psychology and life",
+    "user_history": [
+      "Big data and urban planning",
+      "Get closer to China’s excellent traditional culture",
+      "diagnostics",
+      "College computer basics",
+      "Japanese - travel freely in Japan"
+    ],
+    "concepts": [
+      "Observe words and expressions",
+      "Interpersonal attraction",
+      "Mental illness",
+      "Collective score",
+      "talent"
+    ],
+    "missing_prereqs": [
+      "Coping with anxiety",
+      "Brain secretion",
+      "Cognitive evaluation",
+      "Instructor"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "You've explored diverse fields like Big data and urban planning and Japanese - travel freely in Japan. Now, Psychology and life can offer a new perspective. This course, taught by Associate Professor Changkai Chen, may interest you, covering topics like Mental illness and Memory rise phenomenon. It's a great next step, with helpful preparation in Coping with anxiety."
+  },
+  {
+    "user": "U_10206295",
+    "course": "C_681021",
+    "course_name": "water pollution control engineering",
+    "user_history": [
+      "Air pollution control engineering",
+      "environment and sustainable development",
+      "Catalyst design and preparation",
+      "Introduction to Dialectics of Nature",
+      "environmental ecology"
+    ],
+    "concepts": [
+      "Return water",
+      "Treat wastewater",
+      "Dehydration properties of sludge",
+      "Rain water purification",
+      "Comprehensive rainwater management"
+    ],
+    "missing_prereqs": [
+      "Wastewater disinfection",
+      "New oxidation process",
+      "Cationic polymer coagulant",
+      "Adsorption of heterogeneous polymerized ions"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "You've already explored Air pollution control engineering and environmental ecology, so Water pollution control engineering is a great next step. This course will build on your existing knowledge, and Associate Professor 刘婷 will guide you through key topics like Return water and Treat wastewater. To get the most out of it, consider preparing with topics like Wastewater disinfection."
+  },
+  {
+    "user": "U_10210639",
+    "course": "C_707365",
+    "course_name": "Twelve Lectures on German History",
+    "user_history": [
+      "u.lab 0x: System innovation based on awareness: sensing and co-creating the future",
+      "qualitative research methods",
+      "Quantitative Research Methods in Education (Advanced)",
+      "qualitative research methods",
+      "social research methods"
+    ],
+    "concepts": [
+      "class",
+      "Germanic",
+      "Tariff autonomy",
+      "Germany surrenders unconditionally",
+      "The People's Republic"
+    ],
+    "missing_prereqs": [
+      "Get it right",
+      "Reformist",
+      "Historical Materials",
+      "Inferior County Magistrate"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "I think you'll find \"Twelve Lectures on German History\" fascinating, building on your research background from \"Quantitative Research Methods in Education\" and \"qualitative research methods\". This course explores a new direction, German history, with Professor Sun Lixin's guidance. It's a great opportunity to expand your knowledge, and some prior reading on \"Historical Materials\" can be helpful preparation."
+  },
+  {
+    "user": "U_10233276",
+    "course": "C_782490",
+    "course_name": "Calculus (prerequisite course)",
+    "user_history": [
+      "Enter psychology",
+      "english speech",
+      "Introduction to film and television production",
+      "Circuit principle",
+      "Practical Japanese Conversation"
+    ],
+    "concepts": [
+      "The form of definite points",
+      "and difference product",
+      "Derivative of variable-limited integral function",
+      "Mean inequality",
+      "Properties of item-by-item extreme operation"
+    ],
+    "missing_prereqs": [
+      "Small right triangle",
+      "Exponential function image",
+      "Point-by-point continuity",
+      "The derivation rules of functions"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "I think you'll find Calculus a fascinating new direction, building on your analytical skills from Circuit Principle. Having completed Introduction to film and television production and Enter psychology, you're now poised to explore mathematical concepts like the form of definite points. Instructor Zhiming Hu will guide you through this foundational course."
+  },
+  {
+    "user": "U_10234593",
+    "course": "C_697034",
+    "course_name": "Appreciation of Tang and Song Ci",
+    "user_history": [
+      "\"Chinese style\" clothing and clothing design - taking creative clothing as an example",
+      "Pattern aesthetics and creation",
+      "house building structure",
+      "Probability Theory and Mathematical Statistics",
+      "watercolor painting"
+    ],
+    "concepts": [
+      "A faint voice",
+      "Liu Lang",
+      "Cold food",
+      "Heroes",
+      "Political embrace"
+    ],
+    "missing_prereqs": [
+      "Omitted sentences",
+      "The Spirit of the Baccarat",
+      "Don't ask for a lot of explanation",
+      "Children of high-ranking officials"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "I think you'll find \"Appreciation of Tang and Song Ci\" fascinating, as it explores the humanistic spirit and folk customs. Although it's a new direction from your previous courses like \"watercolor painting\" and \"Pattern aesthetics and creation\", this course can enrich your creative perspective. Associate Professor Gang Cheng will guide you through key topics like \"A faint voice\" and \"Symbol\"."
+  },
+  {
+    "user": "U_1024250",
+    "course": "C_696679",
+    "course_name": "Circuit principle",
+    "user_history": [
+      "Control Engineering Fundamentals",
+      "Green Building and Sustainable Development",
+      "Introduction to turbines",
+      "Engineering Materials Fundamentals",
+      "Introduction to Materials Science"
+    ],
+    "concepts": [
+      "Power side impedance",
+      "Steady-state expressions",
+      "Line current",
+      "Resonant conditions",
+      "Voltage ratio current"
+    ],
+    "missing_prereqs": [
+      "Phase relationship",
+      "Impedance mode",
+      "Current, voltage",
+      "Sine AC voltage"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "Considering your background in Control Engineering Fundamentals and Introduction to turbines, Circuit Principles is a great next step. This course, taught by Xiucheng Liu, will introduce you to new concepts like Power side impedance and Steady-state expressions. Although it's a new direction, your foundation in Engineering Materials Fundamentals will still be useful. Preparation in Phase relationship and Impedance mode will be helpful."
+  },
+  {
+    "user": "U_10243535",
+    "course": "C_682742",
+    "course_name": "financial statement analysis",
+    "user_history": [
+      "Ideological and moral cultivation and legal basis",
+      "financial engineering",
+      "English Grammar and Writing",
+      "Probability Theory and Mathematical Statistics",
+      "Advanced English Writing"
+    ],
+    "concepts": [
+      "Net assets",
+      "VAT adjustment",
+      "Cash flow for business activities",
+      "Industrial and Commercial Bureau",
+      "Quality of income"
+    ],
+    "missing_prereqs": [
+      "Revenue level",
+      "The value of the asset",
+      "Not profitable",
+      "New business"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "Considering your background in Financial Engineering, I recommend Financial Statement Analysis. This course builds on concepts like Net assets and Cash flow for business activities, which you've already covered. Professor Wei Guo will guide you through practical applications."
+  },
+  {
+    "user": "U_10244839",
+    "course": "C_682713",
+    "course_name": "Western Philosophy II: Modern Part",
+    "user_history": [
+      "One Dance, One World - Appreciation of World Classic Dances",
+      "History of ancient Chinese dance",
+      "Exploring the Spiritual Origins of Western Philosophy",
+      "Martial arts and physical fitness and risk avoidance",
+      "Western Philosophy—from Ancient Greek Philosophy to Late European Continental Philosophy"
+    ],
+    "concepts": [
+      "《Three major criticisms》",
+      "Small logic",
+      "process",
+      "continuous",
+      "The materialist perspective"
+    ],
+    "missing_prereqs": [],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "I think you'll love Western Philosophy II: Modern Part, building on your interest in Exploring the Spiritual Origins of Western Philosophy. This course delves into French Enlightenment Philosophy and more. Professor Yi Jiang's expertise will guide you. It's a great next step, and your background in Western Philosophy—from Ancient Greek Philosophy to Late European Continental Philosophy, provides a solid foundation."
+  },
+  {
+    "user": "U_10252549",
+    "course": "C_680808",
+    "course_name": "built environment",
+    "user_history": [
+      "Green Innovation Theory and Practice",
+      "Introduction to Environmental Design Professional",
+      "house building structure",
+      "Building cold and heat sources",
+      "Poetic optics"
+    ],
+    "concepts": [
+      "Pharmaceutical Factory",
+      "bedroom",
+      "Work consumption",
+      "Visual adaptation",
+      "Optimize construction"
+    ],
+    "missing_prereqs": [
+      "carpet",
+      "Wooden Structure System",
+      "External drainage",
+      "Official office area"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "I think you'll really enjoy the Built Environment course, especially after completing Green Innovation Theory and Practice and Introduction to Environmental Design Professional. This course explores new areas like thermal science and construction physics. Associate Professor Bin Cao will guide you through key topics like Pharmaceutical Factory and Visual adaptation."
+  },
+  {
+    "user": "U_102639",
+    "course": "C_697398",
+    "course_name": "u.lab 1x: Learn from the future and lead system innovation",
+    "user_history": [
+      "Appreciation of Western Modern Art",
+      "Self-awareness and emotion management",
+      "Learn to learn: the way to learn",
+      "Sports Psychology",
+      "Tsinghua University Roller Skating Physical Education Course (Improvement)"
+    ],
+    "concepts": [
+      "Art practice",
+      "Systematic thinking",
+      "Financing",
+      "Generative listening",
+      "depth"
+    ],
+    "missing_prereqs": [
+      "Management Science",
+      "Calculate profit",
+      "Capital Market",
+      "Development"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "I think u.lab 1x is a great fit for you, building on your self-awareness skills from Self-awareness and emotion management. This course explores new areas like Systematic thinking and Generative listening. With Ela Ben-Ur as your instructor, you'll be guided by an expert. It's a new direction, but a exciting one."
+  },
+  {
+    "user": "U_10266223",
+    "course": "C_629559",
+    "course_name": "Advanced Living English",
+    "user_history": [
+      "financial engineering",
+      "Internet finance",
+      "The rise and fall of the Tang Dynasty",
+      "History of Chinese Architecture - Prehistory to the Song, Liao and Jin Dynasties",
+      "Appreciation of gems and jade"
+    ],
+    "concepts": [
+      "Adverbial clauses for concessions",
+      "Scoring system",
+      "Writing structure",
+      "Receive coil",
+      "Useless knowledge"
+    ],
+    "missing_prereqs": [
+      "adverbs",
+      "Same term clause",
+      "equipment",
+      "verb"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "I think Advanced Living English is a great next step for you, building on your diverse background in courses like financial engineering and The rise and fall of the Tang Dynasty. This new direction will help you explore English in different subjects, including astronomy and geography. With some preparation in adverbs and Same term clause, you'll be ready to dive in with instructor 张欢瑞."
+  },
+  {
+    "user": "U_10270580",
+    "course": "C_696942",
+    "course_name": "Japanese language and culture",
+    "user_history": [
+      "Building indoor thermal environment simulation and application",
+      "Modern business management: concepts, methods and tools",
+      "Residential refined design",
+      "built environment",
+      "Appreciation of Western Modern Art"
+    ],
+    "concepts": [
+      "Onomatopoeia",
+      "Speak Chinese",
+      "numeral",
+      "Verb-like",
+      "Baseball Player"
+    ],
+    "missing_prereqs": [
+      "Udon",
+      "Conjunction words",
+      "Ahead words",
+      "Ancient mother"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "You've explored various fields, including Building indoor thermal environment simulation and application, and now you're considering Japanese language and culture. This is a new direction, and I think it's great that you're open to discovering something new. Associate Professor Yang Gao will guide you through this course, which might be a nice complement to your background in Appreciation of Western Modern Art."
+  },
+  {
+    "user": "U_10270623",
+    "course": "C_697821",
+    "course_name": "operating system",
+    "user_history": [
+      "Fundamentals of Analog Electronics Technology (Application Part)",
+      "Circuit principle",
+      "College Physics 2 (Electromagnetism, Optics and Quantum Physics)",
+      "Marx and contemporary European thought",
+      "Frontier Report on Logic - Vector Space and Belief-Based Logic"
+    ],
+    "concepts": [
+      "Control code",
+      "Enable",
+      "Load balancing",
+      "statement",
+      "Memory address space"
+    ],
+    "missing_prereqs": [
+      "Operational expressions",
+      "Plain text",
+      "Identify images",
+      "called data."
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "You've completed a range of courses, including Fundamentals of Analog Electronics Technology and College Physics 2. Now, I recommend exploring Operating System, a new direction that can complement your existing knowledge. Associate Professor Yu Chen will guide you through key topics like Control code and Memory address space."
+  },
+  {
+    "user": "U_1028357",
+    "course": "C_697821",
+    "course_name": "operating system",
+    "user_history": [
+      "Database Systems (Medium): Modeling and Design",
+      "Entrepreneurship guidance - face to face with entrepreneurial experts",
+      "Self-awareness and emotion management",
+      "Document Management and Information Analysis",
+      "The science of everyday thinking"
+    ],
+    "concepts": [
+      "Control code",
+      "Enable",
+      "Load balancing",
+      "statement",
+      "Memory address space"
+    ],
+    "missing_prereqs": [
+      "Window Move",
+      "Graphics Tool",
+      "Resource algorithm",
+      "Plain text"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "Considering your background in Database Systems and Document Management and Information Analysis, I think Operating System is a great next step. You've already covered key topics like Control code and Load balancing. Associate Professor Yu Chen will guide you through this course, building on your existing knowledge."
+  },
+  {
+    "user": "U_10309",
+    "course": "C_685689",
+    "course_name": "pathology",
+    "user_history": [
+      "General Introduction to Human Embryology",
+      "Advanced Placement Mathematics Course",
+      "Quantum mechanics (bottom)",
+      "Linear Algebra(2)",
+      "How to write a good scientific research paper"
+    ],
+    "concepts": [
+      "Maternity",
+      "Fragment",
+      "Blood endothelial cell damage",
+      "Complement leukocyte combination",
+      "Intravascular colloid osmotic pressure"
+    ],
+    "missing_prereqs": [
+      "Reduced urine volume",
+      "Burden of disease",
+      "domain",
+      "Interventional research"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "Considering your background in Quantum mechanics and Linear Algebra, exploring Pathology may be a new direction, but it's a great opportunity to diversify your knowledge. Your foundation in General Introduction to Human Embryology will be useful. Instructor Ying Qiu will guide you through key topics like Blood endothelial cell damage."
+  },
+  {
+    "user": "U_103139",
+    "course": "C_697791",
+    "course_name": "C++ language programming basics",
+    "user_history": [
+      "Java programming",
+      "Medical research design",
+      "Medical English",
+      "Introduction to Chinese Medicine English",
+      "English for International Academic Exchange"
+    ],
+    "concepts": [
+      "Client class",
+      "Value Type",
+      "Functions",
+      "Fixed location",
+      "statement"
+    ],
+    "missing_prereqs": [
+      "von Neumann architecture",
+      "Bit matrix",
+      "Prime order",
+      "The edge number is the same order"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "You've completed Java programming, and now you can expand your skills with C++ language programming basics. This new direction can be exciting, and with Associate Professor Mingxing Xu's guidance, you'll be well-supported. To prepare, reviewing von Neumann architecture and other topics can be helpful."
+  },
+  {
+    "user": "U_10321577",
+    "course": "C_696922",
+    "course_name": "Big data machine learning",
+    "user_history": [
+      "Mechanical design",
+      "Systems Engineering Principles",
+      "Learn to make small programs - basics",
+      "Big data system basics",
+      "English scientific paper writing and academic reports"
+    ],
+    "concepts": [
+      "Sequence process modeling problem",
+      "Category",
+      "Assuming training set",
+      "Random initialization",
+      "Expand weight vector"
+    ],
+    "missing_prereqs": [
+      "Reserved words",
+      "Continuous storage allocation",
+      "Key",
+      "Artificial Intelligence System"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "I think you'll really enjoy Big Data Machine Learning, building on your background in Big data system basics. This course is a great next step, even if it's a new direction from Mechanical design and Systems Engineering Principles. Associate Researcher Chun Yuan will guide you through key topics like Sequence process modeling problem and Linear Support Vector Machine."
+  },
+  {
+    "user": "U_10323303",
+    "course": "C_735244",
+    "course_name": "Advanced Japanese language and culture",
+    "user_history": [
+      "fluid mechanics",
+      "Basic principles of Marxism",
+      "Living English listening and speaking",
+      "Engineering drawing",
+      "Green Building and Sustainable Development"
+    ],
+    "concepts": [
+      "Verb-like",
+      "Shelf life",
+      "Adverbial time",
+      "Buckwheat noodles",
+      "Example sentences"
+    ],
+    "missing_prereqs": [
+      "text structure"
+    ],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "I think you'll find Advanced Japanese language and culture a fascinating new direction, building on your strong foundation in Living English listening and speaking. This course will introduce you to topics like Verb-like and Adverbial time. Associate Professor Yang Gao will guide you through this exploration of Japanese life and culture. Prior knowledge of text structure will be helpful preparation."
+  },
+  {
+    "user": "U_10323316",
+    "course": "C_629559",
+    "course_name": "Advanced Living English",
+    "user_history": [
+      "Linear Algebra(2)",
+      "Linear Algebra(1)",
+      "College Physics 2 (Electromagnetism, Optics and Quantum Physics)",
+      "Probability Theory and Mathematical Statistics",
+      "Calculus - multivariate functions and heavy integrals"
+    ],
+    "concepts": [
+      "Adverbial clauses for concessions",
+      "Scoring system",
+      "Writing structure",
+      "Receive coil",
+      "Useless knowledge"
+    ],
+    "missing_prereqs": [
+      "adverbs",
+      "Same term clause",
+      "equipment",
+      "verb"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "You're shifting gears from Linear Algebra and Calculus to explore Advanced Living English. This new direction can bring a fresh perspective. Your background in College Physics 2 and Probability Theory will still be valuable. Instructor 张欢瑞 can guide you through Adverbial clauses for concessions and other key topics."
+  },
+  {
+    "user": "U_10323319",
+    "course": "C_682299",
+    "course_name": "Multivariable Calculus (prerequisite course)",
+    "user_history": [
+      "Data structure (Part 1)",
+      "College Physics 2 (Electromagnetism, Optics and Quantum Physics)",
+      "Mechanical Manufacturing Internship",
+      "C++ language programming basics",
+      "fluid mechanics"
+    ],
+    "concepts": [
+      "and difference product",
+      "Boundary Collection",
+      "Binary implicit functions",
+      "Helper functions",
+      "Difference vector"
+    ],
+    "missing_prereqs": [
+      "Partial fraction",
+      "Half open and half closed range",
+      "Sequence limit",
+      "Determination of single-sided limit"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "I think Multivariable Calculus is a great next step, building on concepts from your previous math-related courses like College Physics 2. This new direction can broaden your math skills. Instructor Benjing Xuan will guide you through key topics. Some preparation in Partial fraction and Sequence limit will be helpful."
+  },
+  {
+    "user": "U_10323372",
+    "course": "C_696826",
+    "course_name": "Engineering drawing",
+    "user_history": [
+      "Multivariable Calculus (prerequisite course)",
+      "Algorithm Design and Analysis",
+      "Calculus (prerequisite course)",
+      "College Physics - Relativity and Quantum Physics",
+      "Electronic Information Science and Technology Guidance(1)"
+    ],
+    "concepts": [
+      "View expression features",
+      "Overview of engineering drawings",
+      "forging",
+      "Radial force",
+      "Horizontal surface cutting"
+    ],
+    "missing_prereqs": [
+      "Running",
+      "Turn around",
+      "blade",
+      "Roulette"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "You've completed Multivariable Calculus and Calculus, a great foundation. Engineering drawing is a new direction, but a fascinating one. Associate Professor 冯涓 will guide you through key topics like View expression features and Three-sided projection, building on your existing skills."
+  },
+  {
+    "user": "U_10345291",
+    "course": "C_707035",
+    "course_name": "Modern life aesthetics - the way of floral tea",
+    "user_history": [
+      "Rural e-commerce new media marketing",
+      "Marketing",
+      "Talk about China in English",
+      "Marketing",
+      "Marketing"
+    ],
+    "concepts": [
+      "People",
+      "Flowers in full bloom",
+      "Fashion Show",
+      "Distiller",
+      "Palace Museum in Beijing"
+    ],
+    "missing_prereqs": [
+      "Aesthetic system",
+      "Pretentious",
+      "Chinese Painting"
+    ],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "I think you'll find \"Modern life aesthetics - the way of floral tea\" a refreshing change of pace. Having completed courses like \"Rural e-commerce new media marketing\" and \"Marketing\", this is a new direction for you, and I'm excited to see you explore it. Associate Professor Huifen Liu will guide you through this journey."
+  },
+  {
+    "user": "U_10366224",
+    "course": "C_674924",
+    "course_name": "Innovation and Entrepreneurship Practice in the Intelligent Era",
+    "user_history": [
+      "The meaning is in the image - Appreciation of Chinese classical poetry",
+      "Innovative thinking and inventing problem solutions",
+      "Information literacy - a required course for academic research",
+      "Immortal Art: Entering the Masters and Classics",
+      "STEM course design and case analysis"
+    ],
+    "concepts": [
+      "GPS technology",
+      "Graphic interface technology",
+      "Mechanical arm",
+      "Artificial Intelligence Method",
+      "Sub-algorithm"
+    ],
+    "missing_prereqs": [
+      "Forward market"
+    ],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "I think you'll find \"Innovation and Entrepreneurship Practice in the Intelligent Era\" fascinating, building on your creative foundation from \"Innovative thinking and inventing problem solutions\". This new direction explores applied economics, and with instructor Yanhui Huang's guidance, you'll dive into topics like Artificial Intelligence Method and Image recognition accuracy."
+  },
+  {
+    "user": "U_10366525",
+    "course": "C_696841",
+    "course_name": "public crisis management",
+    "user_history": [
+      "Introduction to Psychology",
+      "operating system",
+      "Traditional Chinese Medicine and Diagnosis-Learn to be your own doctor",
+      "2017 Tsinghua University graduate thesis defense (1)",
+      "C++ language programming basics"
+    ],
+    "concepts": [
+      "Comprehensive social risks",
+      "Major technical risks",
+      "Crisis decision-making",
+      "Social stability risks",
+      "Risk Management and Governance"
+    ],
+    "missing_prereqs": [],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "I think you'll find the Public Crisis Management course fascinating, especially after exploring diverse topics like Introduction to Psychology and Traditional Chinese Medicine. This new direction can broaden your perspective, and with no prerequisites needed, you can dive right in. Professor Zongchao Peng will guide you through key topics like Crisis decision-making and Risk Management and Governance."
+  },
+  {
+    "user": "U_10370294",
+    "course": "C_862620",
+    "course_name": "Geology and Engineering Geology",
+    "user_history": [
+      "Living English Reading and Writing",
+      "Exploring the Spiritual Origins of Western Philosophy",
+      "accounting principles",
+      "Calculus (prerequisite course)",
+      "Psychology and life"
+    ],
+    "concepts": [
+      "Rheological characteristics",
+      "Broken structure",
+      "Geology",
+      "Free surface tangential stress",
+      "Sludge material filling"
+    ],
+    "missing_prereqs": [],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "I think you'll find Geology and Engineering Geology fascinating, building on your Calculus foundation. This new direction explores the earth's utilization and transformation, complementing your diverse background in Living English Reading and Writing, Exploring the Spiritual Origins of Western Philosophy, and more. Instructor Wenjie Xu will guide you through key topics like Rheological characteristics and Free surface tangential stress."
+  },
+  {
+    "user": "U_10380977",
+    "course": "C_697415",
+    "course_name": "Enter medicine",
+    "user_history": [
+      "Ideological and moral cultivation and legal basis",
+      "Living English listening and speaking",
+      "Mental health education for college students",
+      "Food nutrition and food safety",
+      "Information Literacy General Course: A Required Course for Digital Survival"
+    ],
+    "concepts": [
+      "Maternity",
+      "Fibrous tissue hyperplasia",
+      "Lots of subcutaneous fat",
+      "Crushing fracture",
+      "Bronchodilation test"
+    ],
+    "missing_prereqs": [
+      "Interventional research",
+      "Leukocytosis",
+      "Missing",
+      "Embryonic, pigmented nevus"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "You've completed courses like Mental health education for college students and Food nutrition and food safety, now consider Enter medicine. This new direction can broaden your knowledge. Instructor 赵喆 will guide you through key topics like Maternity and Bronchodilation test."
+  },
+  {
+    "user": "U_10382519",
+    "course": "C_697284",
+    "course_name": "medical parasitology",
+    "user_history": [
+      "Petroleum Engineering Rock Mechanics",
+      "Outline of Modern Chinese History",
+      "Heating project",
+      "English scientific paper writing and academic reports",
+      "fluid mechanics"
+    ],
+    "concepts": [
+      "The various theories of flukes",
+      "Robinia ovum",
+      "proportion",
+      "The preferred medicine",
+      "Japanese Blossom Disease"
+    ],
+    "missing_prereqs": [
+      "Tissue osmotic pressure",
+      "Clinical Syndrome",
+      "Mesangial cells",
+      "Type B encephalitis"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "I think you'll find Medical Parasitology fascinating, a new direction from your previous courses like Petroleum Engineering Rock Mechanics. This course, taught by Ning Wu, covers key topics like flukes and Japanese Blossom Disease. To get the most out of it, some background in Tissue osmotic pressure and Clinical Syndrome would be helpful."
+  },
+  {
+    "user": "U_10383395",
+    "course": "C_696889",
+    "course_name": "Control Engineering Fundamentals",
+    "user_history": [
+      "Automatic control principle",
+      "2016 Tsinghua University graduate thesis defense (1)",
+      "Basic principles of Marxism",
+      "2017 Tsinghua University graduate thesis defense (1)",
+      "Electricity & Magnetism"
+    ],
+    "concepts": [
+      "Feedback Connection",
+      "The first-order of the molecule",
+      "Time domain response expression",
+      "Control algorithm",
+      "The superposition of factors"
+    ],
+    "missing_prereqs": [],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "You've already explored Automatic control principle, a great foundation for Control Engineering Fundamentals. This course, taught by Associate Researcher Dongmei Li, delves into Feedback Connection and Control algorithm. It's a new direction, but your background in Electricity & Magnetism will be helpful."
+  },
+  {
+    "user": "U_10384709",
+    "course": "C_799800",
+    "course_name": "College Physics 2 (Electromagnetism, Optics and Quantum Physics)",
+    "user_history": [
+      "Quantum mechanics (bottom)",
+      "numerical analysis",
+      "Probability Theory and Mathematical Statistics",
+      "Engineering Mathematical Analysis (1)",
+      "Data structure (Part 1)"
+    ],
+    "concepts": [
+      "Charge distribution given",
+      "Ridber Formula",
+      "Free charge in the conductor",
+      "Radiated electromagnetic waves",
+      "track"
+    ],
+    "missing_prereqs": [
+      "Electrostatic potential",
+      "Simple expression",
+      "Proof function",
+      "Changyi Points"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "You've already explored Quantum mechanics, and now College Physics 2 is a great next step. Professor 张留碗 will guide you through Electromagnetism, Optics, and Quantum Physics. Building on your foundation in Quantum mechanics and Probability Theory and Mathematical Statistics, this course offers a new direction to expand your knowledge."
+  },
+  {
+    "user": "U_10384809",
+    "course": "C_782555",
+    "course_name": "Fundamentals of Analog Electronics Technology (Application Part)",
+    "user_history": [
+      "Data structure (Part 2)",
+      "College Physics 1 (Mechanics, Thermal)",
+      "High Technology and Modern Local War",
+      "complex function",
+      "Fundamentals of Analog Electronics Technology (Basic Part)"
+    ],
+    "concepts": [
+      "Identification circuit",
+      "Open load",
+      "In-phase input potential",
+      "Frequency selection network",
+      "In-phase input terminal"
+    ],
+    "missing_prereqs": [
+      "Stronghold",
+      "Small circuit",
+      "Short circuit current",
+      "Controlled current source"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "You're ready to dive deeper into electronics, building on your foundation from Fundamentals of Analog Electronics Technology (Basic Part). This next step, Fundamentals of Analog Electronics Technology (Application Part), will help you apply key concepts like Identification circuit and Frequency selection network. Instructor Chengying Hua will guide you through this exciting application-focused course."
+  },
+  {
+    "user": "U_10385081",
+    "course": "C_799800",
+    "course_name": "College Physics 2 (Electromagnetism, Optics and Quantum Physics)",
+    "user_history": [
+      "Pattern aesthetics and creation",
+      "VC++ object-oriented and visual programming (Part 1): Windows programming basics",
+      "Circuit principle",
+      "C++ language programming basics",
+      "Web design and application"
+    ],
+    "concepts": [
+      "Charge distribution given",
+      "Ridber Formula",
+      "Free charge in the conductor",
+      "Radiated electromagnetic waves",
+      "track"
+    ],
+    "missing_prereqs": [
+      "Electrostatic potential",
+      "Simple expression",
+      "Changyi Points",
+      "The energy of the electromagnetic field"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "You're taking a exciting step with College Physics 2, exploring electromagnetism, optics, and quantum physics. Building on your foundation in Circuit principle, you'll dive deeper into physics concepts. Professor 张留碗 will guide you through this course at Tsinghua University. This new direction will broaden your skills, and preparing with electrostatic potential will be helpful."
+  },
+  {
+    "user": "U_10386906",
+    "course": "C_707038",
+    "course_name": "organic chemistry",
+    "user_history": [
+      "Introduction to Korean Daily Conversation",
+      "Pharmacology",
+      "Advanced Japanese language and culture",
+      "organic chemistry",
+      "Experimental Acupuncture"
+    ],
+    "concepts": [
+      "Reduced sugar",
+      "Reaction process",
+      "Spiral",
+      "Benzyl",
+      "Thermal cracking reaction"
+    ],
+    "missing_prereqs": [
+      "Number of gas molecules",
+      "Chemical experiments",
+      "Chemical Thermodynamics",
+      "O-nitrophenol"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "You've already explored organic chemistry, and I think delving deeper into it will be a great next step. Having completed pharmacology and experimental acupuncture, you may appreciate the complex structures in organic chemistry. Professor 华瑞茂 will guide you through key topics like Thermal cracking reaction and Isopropyl."
+  },
+  {
+    "user": "U_10387858",
+    "course": "C_677076",
+    "course_name": "Introduction to American Politics",
+    "user_history": [
+      "Western Philosophy I: Ancient Part",
+      "The journey of aesthetics",
+      "Ancient Chinese Etiquette Civilization—Etiquette Classics",
+      "Life and Death",
+      "Introduction to Zhuangzi's Philosophy"
+    ],
+    "concepts": [
+      "Ask the government to recover benefits",
+      "Capital Profits Tax Reform",
+      "Taxation Policy",
+      "November",
+      "US Foreign Policy"
+    ],
+    "missing_prereqs": [
+      "Labor products",
+      "Social labor",
+      "Necessary labor time",
+      "Leninism"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "I think you'll find Introduction to American Politics fascinating, building on your philosophical foundation from Western Philosophy I and Introduction to Zhuangzi's Philosophy. This new direction explores a different field, which is exciting. Associate Professor Yu Liu will guide you through key topics like US Foreign Policy and Taxation Policy."
+  },
+  {
+    "user": "U_10390457",
+    "course": "C_682277",
+    "course_name": "interaction design",
+    "user_history": [
+      "Entrepreneurship 102: What can you do for your customers?",
+      "Water supply and drainage pipeline engineering",
+      "Experimental design and analysis",
+      "u.lab 0x: System Innovation Based on Awareness: Perceiving and Co-creating the Future (International Edition)",
+      "Water analytical chemistry"
+    ],
+    "concepts": [
+      "kano model requirements classification matrix",
+      "Design collar",
+      "The bidirectionality of interactive behavior",
+      "A mistake in behavior",
+      "Effectively convey"
+    ],
+    "missing_prereqs": [
+      "Olympia",
+      "Art creation",
+      "A sense of form"
+    ],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "I think you'll find Interaction Design fascinating, a new direction that can complement your background in Entrepreneurship 102 and Experimental design and analysis. This course explores key topics like the Kano model requirements classification matrix. Instructor 李琳 will guide you through the course. To get the most out of it, consider preparing with some art-related topics."
+  },
+  {
+    "user": "U_10391222",
+    "course": "C_676950",
+    "course_name": "comparative constitution",
+    "user_history": [
+      "New Horizons in Chinese Philosophy",
+      "China’s Perspective on Addressing Climate Change",
+      "history of chinese nation",
+      "Enter psychology",
+      "Chinese History From Warring States to the Tang Dynasty"
+    ],
+    "concepts": [
+      "Representative State Transformation",
+      "Social justice issues",
+      "Political Liberalism",
+      "Restricting the majority",
+      "House of Commons"
+    ],
+    "missing_prereqs": [],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "I think you'll find Comparative Constitution fascinating, building on your interests in social structures, as seen in courses like China's Perspective on Addressing Climate Change. This new direction explores constitutional systems, and with no prerequisites, you can dive right in. Associate Professor Jie Cheng will guide you through key topics like Representative State Transformation and Social justice issues."
+  },
+  {
+    "user": "U_10396545",
+    "course": "C_696800",
+    "course_name": "The art of management communication",
+    "user_history": [
+      "Introduction to Psychology",
+      "economic principles",
+      "portrait photography",
+      "Modern life aesthetics - the art of flower arrangement",
+      "Food nutrition and food safety"
+    ],
+    "concepts": [
+      "Target",
+      "Communication Strategy",
+      "Organizational culture",
+      "Work Report",
+      "Body language"
+    ],
+    "missing_prereqs": [
+      "Management Science",
+      "Leadership Style",
+      "Assembly workshop",
+      "Capital Market"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "I think you'll find \"The art of management communication\" fascinating, building on your understanding of human behavior from \"Introduction to Psychology\". This new direction can broaden your skills, and preparing with topics like Management Science will be helpful. Instructor 李琼 will guide you through key topics like Target and Communication Strategy."
+  },
+  {
+    "user": "U_10404643",
+    "course": "C_697265",
+    "course_name": "The secret of medicine",
+    "user_history": [
+      "Basic principles of Marxism",
+      "Constitutional Law",
+      "modern educational technology",
+      "Marx and contemporary European thought",
+      "Public Administration"
+    ],
+    "concepts": [
+      "T lymphocyte immune response",
+      "Congenital heart disease",
+      "Mesodermal tumors",
+      "Staining nerve cells",
+      "Human embryo"
+    ],
+    "missing_prereqs": [
+      "Alveolar swelling",
+      "Injury to the lungs",
+      "Receptor antagonists",
+      "Left heart failure"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "I think you'll find \"The secret of medicine\" fascinating, a new direction from your studies in \"Constitutional Law\" and \"Public Administration\". This course explores topics like T lymphocyte immune response and Congenital heart disease. Professor 李海涛 from Tsinghua University leads it. To get the most out, consider brushing up on Alveolar swelling and Receptor antagonists."
+  },
+  {
+    "user": "U_10408110",
+    "course": "C_697797",
+    "course_name": "Web front-end siege lion",
+    "user_history": [
+      "Artificial Intelligence Principles",
+      "Microsoft Artificial Intelligence – Deep Learning Frameworks and Tools",
+      "2015 Tsinghua University graduate thesis defense (2)",
+      "Monetary Finance",
+      "Japanese - travel freely in Japan"
+    ],
+    "concepts": [
+      "Current directory",
+      "Plain text",
+      "最佳实践",
+      "Layer architecture",
+      "statement"
+    ],
+    "missing_prereqs": [
+      "Typical power",
+      "Information block",
+      "Physical robot",
+      "Microcontrol"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "You're taking a new direction, and I'm excited to recommend Web front-end siege lion. Having completed Artificial Intelligence Principles and Microsoft Artificial Intelligence, you're now exploring a different field. This course, taught by Associate Professor Qiang Liu, will introduce you to key topics like Layer architecture and javascript."
+  },
+  {
+    "user": "U_10419736",
+    "course": "C_681005",
+    "course_name": "Women's cultivation and cultivation: women's sports, nutrition and health",
+    "user_history": [
+      "It turns out that the flowers are blooming everywhere——Kun Opera Art Appreciation",
+      "Principles and methods of garden plant landscape",
+      "Beginner to proficient in PPT",
+      "Exercise and fat loss and body shaping",
+      "classic music from movies"
+    ],
+    "concepts": [
+      "Weight gain during pregnancy",
+      "Phytoestrogen",
+      "Carbohydrates",
+      "Uterine spasm",
+      "Patients with sexual diabetes"
+    ],
+    "missing_prereqs": [],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "You've explored various interests, from \"Kun Opera Art Appreciation\" to \"Exercise and fat loss and body shaping\". Now, you can dive into \"Women's cultivation and cultivation: women's sports, nutrition and health\" with Associate Professor Xian Guo. This new direction can bring fresh insights, and your background in \"Exercise and fat loss and body shaping\" provides a great foundation."
+  },
+  {
+    "user": "U_1042902",
+    "course": "C_1755893",
+    "course_name": "Laser and Laser Application",
+    "user_history": [
+      "Principles of Economics (Micro Part)",
+      "History of Chinese Architecture—Yuan, Ming and Qing Dynasties and Folk Residences",
+      "Data structure (Part 2)",
+      "economic principles",
+      "Advanced Medical English"
+    ],
+    "concepts": [
+      "Light intensity distribution",
+      "In laser",
+      "Laser Materials",
+      "yag laser",
+      "Solid-state laser"
+    ],
+    "missing_prereqs": [
+      "Aperture angle"
+    ],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "You've explored diverse fields, from Principles of Economics to History of Chinese Architecture. Now, Laser and Laser Application offers a new direction, introducing you to light intensity distribution and Solid-state laser. Associate Professor Peng Wen will guide you, and reviewing aperture angle will be helpful preparation."
+  },
+  {
+    "user": "U_10434129",
+    "course": "C_696746",
+    "course_name": "Systems Engineering Principles",
+    "user_history": [
+      "Urban Writing of Classical Literature",
+      "Computer application basics",
+      "university computer",
+      "Basic tutorial on waltz dance",
+      "Introduction to Psychology"
+    ],
+    "concepts": [
+      "Hall three-dimensional structure",
+      "Deterministic decision-making issues",
+      "Computer Modeling",
+      "System hierarchy",
+      "Comparison of two-way judgment matrix"
+    ],
+    "missing_prereqs": [],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "I think you'll find Systems Engineering Principles fascinating, a new direction from your Urban Writing of Classical Literature and Introduction to Psychology courses. Professor Pengcheng Luo's guidance will be valuable. This course requires no prior preparation, making it a great opportunity to explore a new field."
+  },
+  {
+    "user": "U_10444360",
+    "course": "C_681655",
+    "course_name": "Infectious diseases",
+    "user_history": [
+      "Fine chemicals production technology",
+      "Linear Algebra(1)",
+      "Introduction to carrier-based aircraft",
+      "Internet Innovation and Entrepreneurship",
+      "Structural Mechanics (1)"
+    ],
+    "concepts": [
+      "Invasion through the digestive tract",
+      "Tube type",
+      "Urine volume",
+      "placenta",
+      "species specificity"
+    ],
+    "missing_prereqs": [
+      "Coronary heart disease",
+      "Hormone transport",
+      "Leukocytosis",
+      "Membrane glomerulonephritis"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "I think Infectious diseases is a great next step, exploring a new direction from your previous courses like Fine chemicals production technology and Linear Algebra(1). This course, taught by Chief Physician 李冰, will introduce you to key topics like invasion through the digestive tract. To prepare, reviewing Coronary heart disease and Hormone transport can be helpful."
+  },
+  {
+    "user": "U_104510",
+    "course": "C_697166",
+    "course_name": "Linear Algebra(2)",
+    "user_history": [
+      "software architecture",
+      "Concise Linear Algebra",
+      "Basics of applied information theory",
+      "History of World Civilizations",
+      "Ten Lectures on \"Historical Records\""
+    ],
+    "concepts": [
+      "Number of vertices of the graph",
+      "Standard orthogonal basis",
+      "Association matrix",
+      "Singular value decomposition",
+      "The law of bonding of matrix multiplication"
+    ],
+    "missing_prereqs": [],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "I think Linear Algebra(2) is a great next step for you, building on your foundation from Concise Linear Algebra. This course will delve deeper into key topics like singular value decomposition and linear transformation. With your background in software architecture and Concise Linear Algebra, you're well-prepared to explore this new direction, and Associate Professor Fan Xu will guide you through it."
+  },
+  {
+    "user": "U_10458808",
+    "course": "C_677047",
+    "course_name": "PPP Theory and Practice",
+    "user_history": [
+      "How to write a good scientific research paper",
+      "public crisis management",
+      "statistics",
+      "Translation Skills and Practice",
+      "2017 Tsinghua University graduate thesis defense (1)"
+    ],
+    "concepts": [
+      "Private",
+      "value for money",
+      "Workers' wages",
+      "Legal Counsel",
+      "Project management"
+    ],
+    "missing_prereqs": [
+      "Calculate profit",
+      "Management Science",
+      "Leadership Style",
+      "Effective manager"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "I think you'll really enjoy PPP Theory and Practice, building on your background in public crisis management. This course explores key topics like Project management and Legal Counsel. Your experience with statistics will be helpful, and instructor 宋文娟 will guide you through new areas like Private and value for money."
+  },
+  {
+    "user": "U_10473668",
+    "course": "C_682739",
+    "course_name": "Outline of Modern Chinese History",
+    "user_history": [
+      "An introduction to Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics",
+      "Western Philosophy—from Ancient Greek Philosophy to Late European Continental Philosophy",
+      "Ideological and moral cultivation and legal basis",
+      "Introduction to the basic principles of Marxism",
+      "Appreciation of Western Philosophy Classics"
+    ],
+    "concepts": [
+      "class",
+      "Nanjing National Government",
+      "Soviet Republic",
+      "Modern History",
+      "Sino-Japanese War"
+    ],
+    "missing_prereqs": [
+      "Political decision",
+      "Judgment and determination",
+      "Land nationalization movement",
+      "Alexander Empire"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "You've already explored Mao Zedong Thought and Western Philosophy, now let's dive into Outline of Modern Chinese History. This course complements your studies, especially with your background in Introduction to the basic principles of Marxism. Associate Professor Zhengchun Wu will guide you through key topics like the Nanjing National Government and Sino-Japanese War."
+  },
+  {
+    "user": "U_104765",
+    "course": "C_674903",
+    "course_name": "Immortal Art: Entering the Masters and Classics",
+    "user_history": [
+      "Management",
+      "communication psychology",
+      "The science of everyday thinking",
+      "Beginner to proficient in PPT",
+      "teaching theory"
+    ],
+    "concepts": [
+      "City scenery",
+      "Minoan civilization",
+      "Art creation",
+      "President of South Africa",
+      "Modernist"
+    ],
+    "missing_prereqs": [
+      "Digital Photos",
+      "Italian Art",
+      "Processing pictures"
+    ],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "I think you'll find \"Immortal Art: Entering the Masters and Classics\" fascinating, building on your interests in art and culture, which is a new direction from your previous courses like \"Management\" and \"Communication Psychology\". Lecturer Jing Sun will guide you through key topics like \"City scenery\" and \"Art creation\". To get the most out of this course, considering \"Digital Photos\" and \"Italian Art\" as preparation can be helpful."
+  },
+  {
+    "user": "U_1048740",
+    "course": "C_696927",
+    "course_name": "social research methods",
+    "user_history": [
+      "Information literacy - a required course for academic research",
+      "Online teaching course examples and analysis",
+      "Biological big data",
+      "Laboratory safety training",
+      "General Introduction to Human Embryology"
+    ],
+    "concepts": [
+      "All things are stagnant",
+      "The effect of justice",
+      "Location fallacy,",
+      "Roster",
+      "Social network relationships"
+    ],
+    "missing_prereqs": [],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "I think you'll find the social research methods course fascinating, building on your analytical skills from Information literacy. This new direction in sociology will introduce you to topics like Location fallacy and Social network relationships. With no prerequisites needed, you can dive right in, guided by Associate Professor Zhilin Liu."
+  },
+  {
+    "user": "U_10489310",
+    "course": "C_674920",
+    "course_name": "Introduction to Logic",
+    "user_history": [
+      "Mechanical design",
+      "Ideological and moral cultivation and legal basis",
+      "Exercise prescription theory and application",
+      "2016 Tsinghua University graduate thesis defense (2)",
+      "dynamics"
+    ],
+    "concepts": [
+      "Small logic",
+      "The true value of the proposition",
+      "process",
+      "Logical research",
+      "Mathematical logic,"
+    ],
+    "missing_prereqs": [
+      "The Irish School",
+      "Stability",
+      "This life",
+      "Determinist"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "I think you'll find Introduction to Logic fascinating, a new direction that can complement your background in Mechanical design and dynamics. Having completed Ideological and moral cultivation and legal basis, you may appreciate the philosophical aspects. Associate Professor Weipeng Chen will guide you through key topics like Small logic and Mathematical logic."
+  },
+  {
+    "user": "U_10493008",
+    "course": "C_676950",
+    "course_name": "comparative constitution",
+    "user_history": [
+      "Starting a business",
+      "Modern life aesthetics - the art of flower arrangement",
+      "Principles of Economics (Macro Part)",
+      "Constitutional Law",
+      "intellectual property law"
+    ],
+    "concepts": [
+      "Representative State Transformation",
+      "Social justice issues",
+      "Political Liberalism",
+      "Restricting the majority",
+      "House of Commons"
+    ],
+    "missing_prereqs": [],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "I think you'll find Comparative Constitution fascinating, building on your background in Constitutional Law. This new direction explores social justice issues and more. Associate Professor Jie Cheng will guide you through key topics like Representative State Transformation. Your diverse background, including Principles of Economics, will bring a unique perspective."
+  },
+  {
+    "user": "U_10497009",
+    "course": "C_697007",
+    "course_name": "English Grammar and Writing",
+    "user_history": [
+      "teaching theory",
+      "Online teaching course examples and analysis",
+      "Winter Olympics English",
+      "TV show host",
+      "Get closer to China’s excellent traditional culture"
+    ],
+    "concepts": [
+      "English sentence structure",
+      "Adjectives of attribution",
+      "Adverbial time",
+      "former",
+      "Adjective comparison"
+    ],
+    "missing_prereqs": [
+      "Udon",
+      "reader",
+      "criticized",
+      "box"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "I think English Grammar and Writing is a great next step for you, building on your experience with courses like Winter Olympics English and TV show host. This new direction will help you refine your writing skills. Associate Professor Xiangjun Zhu will guide you through key topics like English sentence structure and Adjective comparison."
+  },
+  {
+    "user": "U_10513992",
+    "course": "C_697791",
+    "course_name": "C++ language programming basics",
+    "user_history": [
+      "Artificial Intelligence Principles",
+      "financial engineering",
+      "How to write a good scientific research paper",
+      "Microeconomics",
+      "Concise Linear Algebra"
+    ],
+    "concepts": [
+      "Client class",
+      "Value Type",
+      "Functions",
+      "Fixed location",
+      "statement"
+    ],
+    "missing_prereqs": [
+      "polling",
+      "Window Move",
+      "von Neumann architecture",
+      "Support process"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "You've explored various fields, including Artificial Intelligence Principles and Microeconomics. Now, I recommend C++ language programming basics, a new direction that can complement your existing knowledge. Instructor Mingxing Xu will guide you through key topics like Client class and Functions, building on your foundation."
+  },
+  {
+    "user": "U_10514083",
+    "course": "C_697018",
+    "course_name": "Digital Electronics Technology Basics",
+    "user_history": [
+      "Calculus (prerequisite course)",
+      "Fundamentals of Analog Electronics Technology (Basic Part)",
+      "Probability theory - the science of uncertainty",
+      "Calculus - Limit theory and functions of one variable",
+      "Programming basics"
+    ],
+    "concepts": [
+      "Circuit module",
+      "Characteristic equations",
+      "Counter for fixed time",
+      "Forward electric field",
+      "gate circuit"
+    ],
+    "missing_prereqs": [
+      "CT",
+      "Controlled power supply",
+      "Short circuit current",
+      "Resonant loop"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "You're ready to dive into Digital Electronics Technology Basics, building on your foundation in Calculus and Fundamentals of Analog Electronics Technology. This new direction can expand your skills, and preparing with topics like Controlled power supply will be helpful. Instructor Hong Wang will guide you through key topics like gate circuit and Counter for fixed time."
+  },
+  {
+    "user": "U_10517034",
+    "course": "C_696787",
+    "course_name": "Engineering Thermodynamics (Part 1)",
+    "user_history": [
+      "Japanese language and culture",
+      "combustion theory",
+      "Linear Algebra(1)",
+      "Calculus (prerequisite course)",
+      "Introduction to Logic"
+    ],
+    "concepts": [
+      "Quasi-static volume change work",
+      "Kano Counter-Circulation",
+      "Isovolume heating cycle",
+      "Entropy change in isolated systems",
+      "Ideal gas isentropic process"
+    ],
+    "missing_prereqs": [],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "You're taking a new step with Engineering Thermodynamics (Part 1), building on your foundation in Calculus. This course is a great fit, and Professor Xiaomin Wu's expertise will guide you. Your background in Combustion Theory will also be relevant."
+  },
+  {
+    "user": "U_10521328",
+    "course": "C_696922",
+    "course_name": "Big data machine learning",
+    "user_history": [
+      "Living English Reading and Writing",
+      "Data structure (Part 1)",
+      "Fundamentals of Analog Electronics Technology (Application Part)",
+      "Data structure (Part 2)",
+      "Big data platform core technology"
+    ],
+    "concepts": [
+      "Sequence process modeling problem",
+      "Category",
+      "Assuming training set",
+      "Random initialization",
+      "Expand weight vector"
+    ],
+    "missing_prereqs": [
+      "Software type",
+      "Feature Model",
+      "Information Retrieval Module",
+      "Binocular operator function"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "You've completed courses like Data structure and Big data platform core technology, which is a great foundation. Now, I recommend Big Data Machine Learning, a new direction that can expand your skills. Instructor Chun Yuan will guide you through key topics like Sequence process modeling problem and Linear Support Vector Machine. This course will be a valuable addition to your learning journey."
+  },
+  {
+    "user": "U_10530420",
+    "course": "C_697018",
+    "course_name": "Digital Electronics Technology Basics",
+    "user_history": [
+      "2016 Tsinghua University graduate thesis defense (1)",
+      "College Physics 2 (Electromagnetism, Optics and Quantum Physics)",
+      "College Physics Experiment",
+      "Scientific Computing and MATLAB Language",
+      "Probability Theory and Mathematical Statistics"
+    ],
+    "concepts": [
+      "Circuit module",
+      "Characteristic equations",
+      "Counter for fixed time",
+      "Forward electric field",
+      "gate circuit"
+    ],
+    "missing_prereqs": [
+      "Op-amp circuit",
+      "Register transfer stage",
+      "exchange",
+      "CT"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "I think you'll find Digital Electronics Technology Basics fascinating, building on your foundation in College Physics 2 and Scientific Computing and MATLAB Language. This course explores new areas, which is exciting. Instructor Hong Wang will guide you through key topics like gate circuit and Counter for fixed time."
+  },
+  {
+    "user": "U_10531488",
+    "course": "C_682458",
+    "course_name": "accounting principles",
+    "user_history": [
+      "Introduction to Business: 10 lessons to take you into the business world",
+      "Appreciation of Ming Gardens: 36 Beautiful Landscapes of the Ming Dynasty",
+      "Introduction to Logic",
+      "Modern life aesthetics - the art of flower arrangement",
+      "Introduction to Interface Design"
+    ],
+    "concepts": [
+      "Internal restraint system",
+      "Loan principal",
+      "The principle of comparability",
+      "Accounting period end",
+      "Income and profit"
+    ],
+    "missing_prereqs": [
+      "Financing",
+      "Additional investment",
+      "Serve",
+      "price"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "I think you'll find Accounting Principles a great next step, building on your business foundation from Introduction to Business. This course introduces key topics like Internal restraint system and The principle of comparability. Professor Zhenping Hao will guide you through this new direction, and preparing with concepts like Financing will be helpful."
+  },
+  {
+    "user": "U_1053294",
+    "course": "C_696994",
+    "course_name": "Living English listening and speaking",
+    "user_history": [
+      "Circuit principle",
+      "Immortal Art: Entering the Masters and Classics",
+      "car chassis structure",
+      "Combinatorics",
+      "Introduction to Chinese Philosophy Classics"
+    ],
+    "concepts": [
+      "British Literature",
+      "Hot dishes",
+      "Fluent speaking",
+      "Emotions",
+      "Relieve stress and live a healthy life"
+    ],
+    "missing_prereqs": [
+      "Modify nouns",
+      "Start of sentence",
+      "middle"
+    ],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "I think you'll enjoy Living English listening and speaking, a great next step after exploring diverse topics like Circuit principle and Combinatorics. This course offers a new direction, focusing on everyday English conversations. With Associate Professor Fang Yang guiding you, you'll find it helpful to review modifying nouns and sentence structure before starting."
+  },
+  {
+    "user": "U_10550311",
+    "course": "C_735066",
+    "course_name": "English film and culture",
+    "user_history": [
+      "English writing guidance - polishing and improvement",
+      "Classics of Western Thought and Modern Society",
+      "Overview of English-speaking Countries——Overview·Bowen",
+      "English pronunciation",
+      "Image processing and analysis"
+    ],
+    "concepts": [
+      "accept",
+      "stories",
+      "helpful",
+      "story",
+      "aspects"
+    ],
+    "missing_prereqs": [
+      "except",
+      "central idea",
+      "blogs",
+      "festivals"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "I think you'll enjoy English film and culture, building on your English writing guidance and Overview of English-speaking Countries experience. This new direction will be a great opportunity to explore a different side of language and culture. Shirley Cchang will guide you through the course, and some preparation on central ideas and blogs can be helpful."
+  },
+  {
+    "user": "U_10550329",
+    "course": "C_854846",
+    "course_name": "Optics",
+    "user_history": [
+      "Java programming",
+      "Linear Algebra(2)",
+      "College Physics 1 (Mechanics, Thermal)",
+      "Quantum mechanics (1)",
+      "The rise and fall of the Tang Dynasty"
+    ],
+    "concepts": [
+      "Doppler effect",
+      "electromagnetic",
+      "Uniform isotropy",
+      "Conjugation point",
+      "Electric vector"
+    ],
+    "missing_prereqs": [
+      "n-order tensor",
+      "Geometric coordinates",
+      "In the medium",
+      "Aperture angle"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "Considering your background in College Physics 1 and Quantum mechanics, I think Optics is a great next step. Although it's a new direction from Java programming and Linear Algebra, it's a natural fit with your physics foundation. Associate Professor Shuo Jiang's course will help you dive deeper into topics like the Doppler effect and electromagnetic fields."
+  },
+  {
+    "user": "U_105511",
+    "course": "C_677236",
+    "course_name": "Psychology and life",
+    "user_history": [
+      "psychological statistics",
+      "Indoor flower and plant cultivation technology and decorative scenery",
+      "Introduction to the basic principles of Marxism",
+      "Introduction to Logic",
+      "Exploring the Spiritual Origins of Western Philosophy"
+    ],
+    "concepts": [
+      "Observe words and expressions",
+      "Interpersonal attraction",
+      "Mental illness",
+      "Collective score",
+      "talent"
+    ],
+    "missing_prereqs": [
+      "Coping with anxiety",
+      "Psychological measurement",
+      "Self-inflation",
+      "Brain secretion"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "I think you'll really enjoy Psychology and Life, building on your background in psychological statistics. This course explores topics like Interpersonal attraction and Mental illness, complementing your studies in Introduction to Logic and Exploring the Spiritual Origins of Western Philosophy. Associate Professor Changkai Chen will guide you through this new direction, and considering Coping with anxiety as preparation can be helpful."
+  },
+  {
+    "user": "U_10551238",
+    "course": "C_697791",
+    "course_name": "C++ language programming basics",
+    "user_history": [
+      "operations research",
+      "teaching theory",
+      "Calculus - Limit theory and functions of one variable",
+      "Learn to make small programs - basics",
+      "portrait photography"
+    ],
+    "concepts": [
+      "Client class",
+      "Value Type",
+      "Functions",
+      "Fixed location",
+      "statement"
+    ],
+    "missing_prereqs": [
+      "von Neumann architecture",
+      "Bit matrix",
+      "Prime order",
+      "The edge number is the same order"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "You've already explored programming basics in \"Learn to make small programs - basics\", and now I recommend diving into C++ language programming basics. This new direction can expand your skills, and preparing with topics like von Neumann architecture will be helpful. Instructor Mingxing Xu from Tsinghua University will guide you through key topics like Client class and Functions."
+  },
+  {
+    "user": "U_10551794",
+    "course": "C_682330",
+    "course_name": "Automatic control theory (2)",
+    "user_history": [
+      "Computer culture basics",
+      "Power system analysis",
+      "PLC application technology",
+      "C language programming (Part 1)",
+      "Power electronics technology"
+    ],
+    "concepts": [
+      "First-order inertia link",
+      "Feedback Connection",
+      "State Transfer Matrix",
+      "Matrix vector form",
+      "Multi-power polynomial"
+    ],
+    "missing_prereqs": [],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "You're ready to dive into Automatic control theory (2) after completing courses like Power system analysis and PLC application technology. This new direction will expand your skills, and Associate Professor 熊智华 will guide you. Your background in C language programming (Part 1) and Power electronics technology will also be useful."
+  },
+  {
+    "user": "U_10556744",
+    "course": "C_682195",
+    "course_name": "Appreciation of Ming Gardens: 36 Beautiful Landscapes of the Ming Dynasty",
+    "user_history": [
+      "Digital Electronics Technology Basics",
+      "Basic principles of Marxism",
+      "Circuit principle",
+      "Japanese language and culture",
+      "Fundamentals of Analog Electronics Technology (Basic Part)"
+    ],
+    "concepts": [
+      "The power of garden",
+      "Garden site",
+      "Strange realm",
+      "Segmented landscape creation",
+      "Energetic"
+    ],
+    "missing_prereqs": [],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "You've explored various fields, from Digital Electronics Technology Basics to Japanese language and culture. Now, I recommend Appreciation of Ming Gardens, a new direction that can broaden your horizons. Professor Lifang Wang will guide you through this unique course, no prior preparation needed."
+  },
+  {
+    "user": "U_1055818",
+    "course": "C_746997",
+    "course_name": "Fundamentals of Analog Electronics Technology (Basic Part)",
+    "user_history": [
+      "The master teacher in the e era - the training methods of MOOC teachers",
+      "Tsinghua Department Overview",
+      "through experimental circuits",
+      "Living English listening and speaking",
+      "Introduction to Project Management"
+    ],
+    "concepts": [
+      "Pinch-off voltage",
+      "Identification circuit",
+      "Open load",
+      "In-phase input potential",
+      "Collector power supply"
+    ],
+    "missing_prereqs": [
+      "CT",
+      "Controlled power supply",
+      "Small circuit",
+      "Short circuit current"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "I think you'll find the Fundamentals of Analog Electronics Technology (Basic Part) course a great next step, building on your experimental interests from \"through experimental circuits\". This new direction into Electronic Science and Technology is exciting, and instructor Chengying Hua will guide you through key topics like Pinch-off voltage and Collector power supply."
+  },
+  {
+    "user": "U_10565484",
+    "course": "C_681076",
+    "course_name": "History of World Civilizations",
+    "user_history": [
+      "Advanced Japanese language and culture",
+      "Talk about China in English",
+      "Chinese text vocabulary",
+      "Interpreting and Listening",
+      "The rise and fall of the Tang Dynasty"
+    ],
+    "concepts": [
+      "class",
+      "The People's Republic",
+      "The Sino-Japanese War of 1894-1895 failed",
+      "The emerging bourgeoisie anti-feudal",
+      "Sino-Japanese War"
+    ],
+    "missing_prereqs": [
+      "Sharp top",
+      "Reformist",
+      "October Revolution",
+      "Modern History"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "You've shown a strong interest in Chinese culture through courses like \"Advanced Japanese language and culture\" and \"The rise and fall of the Tang Dynasty\". This new course, \"History of World Civilizations\", offers a fresh perspective. Professor 王泰 will guide you through key topics like \"The Sino-Japanese War of 1894-1895\" and more."
+  },
+  {
+    "user": "U_10579135",
+    "course": "C_674903",
+    "course_name": "Immortal Art: Entering the Masters and Classics",
+    "user_history": [
+      "Engineering Mechanics",
+      "Graduation thesis writing",
+      "Advanced Living English",
+      "English Writing Guidance—Introduction to Writing",
+      "New Horizons University English"
+    ],
+    "concepts": [
+      "City scenery",
+      "Minoan civilization",
+      "Art creation",
+      "President of South Africa",
+      "Modernist"
+    ],
+    "missing_prereqs": [
+      "Digital Photos",
+      "Italian Art",
+      "Processing pictures"
+    ],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "I think you'll love \"Immortal Art: Entering the Masters and Classics\" after completing courses like \"English Writing Guidance—Introduction to Writing\". This is a new direction, but your strong foundation will serve you well. Lecturer Jing Sun will guide you through key topics like \"City scenery\" and \"Art creation\"."
+  },
+  {
+    "user": "U_1057983",
+    "course": "C_697791",
+    "course_name": "C++ language programming basics",
+    "user_history": [
+      "Web security practices",
+      "2014 Tsinghua University graduate thesis defense (1)",
+      "Computer culture basics",
+      "Learning to make small programs - practical part: Tree Hole small program",
+      "Web front-end siege lion"
+    ],
+    "concepts": [
+      "Client class",
+      "Value Type",
+      "Functions",
+      "Fixed location",
+      "statement"
+    ],
+    "missing_prereqs": [
+      "Window Move",
+      "von Neumann architecture",
+      "Support process",
+      "Software type"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "Considering your background in Web security practices and Computer culture basics, I recommend exploring C++ language programming basics. This is a new direction, but a great opportunity to expand your skills. Having already covered topics like Client class and Functions, you're off to a strong start. Instructor Mingxing Xu will guide you through this course."
+  },
+  {
+    "user": "U_10584587",
+    "course": "C_696724",
+    "course_name": "Probability Theory and Mathematical Statistics",
+    "user_history": [
+      "photojournalism",
+      "Tsinghua Department Overview",
+      "Data structure (Part 1)",
+      "Circuit principle",
+      "Living English Reading and Writing"
+    ],
+    "concepts": [
+      "Endpoint drop",
+      "Probability calculation deduction",
+      "Non-negative axiom",
+      "Generalized Newtonian binomial formula",
+      "Density function of normal distribution"
+    ],
+    "missing_prereqs": [
+      "Hyperbolic sine",
+      "Taylor formula problem",
+      "The value range of the function",
+      "trace"
+    ],
+    "weights": {
+      "alpha": 0.25,
+      "beta": 0.45,
+      "lambda": 0.3
+    },
+    "explanation": "I think you'll find Probability Theory and Mathematical Statistics fascinating, building on your analytical skills from Data structure (Part 1) and Circuit principle. This new direction can broaden your perspectives. Associate Professor Heng Liang will guide you through key topics like Endpoint drop and Density function of normal distribution."
+  },
+  {
+    "user": "U_10588049",
+    "course": "C_682749",
+    "course_name": "Lawyers look at marriage and family matters",
+    "user_history": [
+      "diagnostics",
+      "Microbiology",
+      "Obstetrics and Gynecology",
+      "medical immunology",
+      "pathophysiology"
+    ],
+    "concepts": [
+      "Separate property system",
+      "Response relationship",
+      "A talented woman",
+      "Transfer of property",
+      "Jinan University Law School"
+    ],
+    "missing_prereqs": [],
+    "weights": {
+      "alpha": 0.28,
+      "beta": 0.52,
+      "lambda": 0.2
+    },
+    "explanation": "I think you'll find \"Lawyers look at marriage and family matters\" fascinating, a new direction from your medical background in diagnostics, Microbiology, and Obstetrics and Gynecology. Associate Professor Yaohong Song will guide you through key topics like Separate property system and Right to personal freedom. This course is a great opportunity to explore a new field."
+  }
+]
