@@ -1,0 +1,7 @@
+0	belongs_to
+1	follows
+2	has_concept
+3	offered_by
+4	prerequisite_of
+5	taught_by
+6	watches
