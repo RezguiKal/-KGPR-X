@@ -1,0 +1,25 @@
+{
+  "volet_1_automatique": {
+    "LLMKGER": {
+      "faithfulness": 0.45,
+      "readability_flesch": 30.41694609332559,
+      "avg_length": 54.08,
+      "uniqueness": 1.0
+    }
+  },
+  "volet_2_llm_juge": {
+    "E-KGAT": {
+      "faithfulness": 3.4,
+      "helpfulness": 2.1333333333333333,
+      "readability": 2.4,
+      "consistency": 2.6666666666666665
+    },
+    "LLMKGER": {
+      "faithfulness": 4.833333333333333,
+      "helpfulness": 3.966666666666667,
+      "readability": 4.933333333333334,
+      "consistency": 4.8
+    }
+  },
+  "conclusion": "LLMKGER surpasse E-KGAT sur tous les critères (automatique + LLM-juge concordent)"
+}
