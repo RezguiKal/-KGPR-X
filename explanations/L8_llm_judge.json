@@ -1,0 +1,366 @@
+{
+  "E-KGAT": [
+    {
+      "faithfulness": 4,
+      "helpfulness": 2,
+      "readability": 3,
+      "consistency": 3
+    },
+    {
+      "faithfulness": 2,
+      "helpfulness": 2,
+      "readability": 2,
+      "consistency": 2
+    },
+    {
+      "faithfulness": 4,
+      "helpfulness": 3,
+      "readability": 2,
+      "consistency": 3
+    },
+    {
+      "faithfulness": 4,
+      "helpfulness": 3,
+      "readability": 2,
+      "consistency": 3
+    },
+    {
+      "faithfulness": 4,
+      "helpfulness": 3,
+      "readability": 2,
+      "consistency": 3
+    },
+    {
+      "faithfulness": 4,
+      "helpfulness": 3,
+      "readability": 2,
+      "consistency": 3
+    },
+    {
+      "faithfulness": 2,
+      "helpfulness": 1,
+      "readability": 2,
+      "consistency": 1
+    },
+    {
+      "faithfulness": 4,
+      "helpfulness": 2,
+      "readability": 3,
+      "consistency": 3
+    },
+    {
+      "faithfulness": 4,
+      "helpfulness": 3,
+      "readability": 2,
+      "consistency": 3
+    },
+    {
+      "faithfulness": 4,
+      "helpfulness": 2,
+      "readability": 3,
+      "consistency": 3
+    },
+    {
+      "faithfulness": 4,
+      "helpfulness": 2,
+      "readability": 3,
+      "consistency": 3
+    },
+    {
+      "faithfulness": 4,
+      "helpfulness": 2,
+      "readability": 3,
+      "consistency": 3
+    },
+    {
+      "faithfulness": 4,
+      "helpfulness": 3,
+      "readability": 2,
+      "consistency": 3
+    },
+    {
+      "faithfulness": 4,
+      "helpfulness": 2,
+      "readability": 2,
+      "consistency": 3
+    },
+    {
+      "faithfulness": 4,
+      "helpfulness": 2,
+      "readability": 3,
+      "consistency": 3
+    },
+    {
+      "faithfulness": 4,
+      "helpfulness": 2,
+      "readability": 3,
+      "consistency": 3
+    },
+    {
+      "faithfulness": 2,
+      "helpfulness": 1,
+      "readability": 2,
+      "consistency": 2
+    },
+    {
+      "faithfulness": 2,
+      "helpfulness": 2,
+      "readability": 2,
+      "consistency": 2
+    },
+    {
+      "faithfulness": 4,
+      "helpfulness": 2,
+      "readability": 3,
+      "consistency": 3
+    },
+    {
+      "faithfulness": 2,
+      "helpfulness": 2,
+      "readability": 3,
+      "consistency": 3
+    },
+    {
+      "faithfulness": 4,
+      "helpfulness": 2,
+      "readability": 3,
+      "consistency": 3
+    },
+    {
+      "faithfulness": 2,
+      "helpfulness": 2,
+      "readability": 2,
+      "consistency": 2
+    },
+    {
+      "faithfulness": 4,
+      "helpfulness": 2,
+      "readability": 3,
+      "consistency": 3
+    },
+    {
+      "faithfulness": 4,
+      "helpfulness": 2,
+      "readability": 3,
+      "consistency": 3
+    },
+    {
+      "faithfulness": 4,
+      "helpfulness": 2,
+      "readability": 3,
+      "consistency": 3
+    },
+    {
+      "faithfulness": 4,
+      "helpfulness": 3,
+      "readability": 2,
+      "consistency": 3
+    },
+    {
+      "faithfulness": 2,
+      "helpfulness": 1,
+      "readability": 2,
+      "consistency": 2
+    },
+    {
+      "faithfulness": 2,
+      "helpfulness": 1,
+      "readability": 2,
+      "consistency": 2
+    },
+    {
+      "faithfulness": 2,
+      "helpfulness": 2,
+      "readability": 1,
+      "consistency": 1
+    },
+    {
+      "faithfulness": 4,
+      "helpfulness": 3,
+      "readability": 2,
+      "consistency": 3
+    }
+  ],
+  "LLMKGER": [
+    {
+      "faithfulness": 5,
+      "helpfulness": 4,
+      "readability": 5,
+      "consistency": 5
+    },
+    {
+      "faithfulness": 5,
+      "helpfulness": 4,
+      "readability": 5,
+      "consistency": 5
+    },
+    {
+      "faithfulness": 5,
+      "helpfulness": 4,
+      "readability": 5,
+      "consistency": 5
+    },
+    {
+      "faithfulness": 5,
+      "helpfulness": 4,
+      "readability": 5,
+      "consistency": 5
+    },
+    {
+      "faithfulness": 5,
+      "helpfulness": 4,
+      "readability": 5,
+      "consistency": 5
+    },
+    {
+      "faithfulness": 5,
+      "helpfulness": 4,
+      "readability": 5,
+      "consistency": 5
+    },
+    {
+      "faithfulness": 5,
+      "helpfulness": 4,
+      "readability": 5,
+      "consistency": 5
+    },
+    {
+      "faithfulness": 5,
+      "helpfulness": 4,
+      "readability": 5,
+      "consistency": 5
+    },
+    {
+      "faithfulness": 5,
+      "helpfulness": 4,
+      "readability": 5,
+      "consistency": 5
+    },
+    {
+      "faithfulness": 5,
+      "helpfulness": 4,
+      "readability": 5,
+      "consistency": 5
+    },
+    {
+      "faithfulness": 4,
+      "helpfulness": 3,
+      "readability": 4,
+      "consistency": 4
+    },
+    {
+      "faithfulness": 5,
+      "helpfulness": 4,
+      "readability": 5,
+      "consistency": 5
+    },
+    {
+      "faithfulness": 5,
+      "helpfulness": 5,
+      "readability": 5,
+      "consistency": 5
+    },
+    {
+      "faithfulness": 5,
+      "helpfulness": 4,
+      "readability": 5,
+      "consistency": 5
+    },
+    {
+      "faithfulness": 5,
+      "helpfulness": 4,
+      "readability": 5,
+      "consistency": 5
+    },
+    {
+      "faithfulness": 5,
+      "helpfulness": 4,
+      "readability": 5,
+      "consistency": 5
+    },
+    {
+      "faithfulness": 5,
+      "helpfulness": 4,
+      "readability": 5,
+      "consistency": 5
+    },
+    {
+      "faithfulness": 5,
+      "helpfulness": 4,
+      "readability": 5,
+      "consistency": 5
+    },
+    {
+      "faithfulness": 5,
+      "helpfulness": 4,
+      "readability": 5,
+      "consistency": 4
+    },
+    {
+      "faithfulness": 5,
+      "helpfulness": 4,
+      "readability": 5,
+      "consistency": 5
+    },
+    {
+      "faithfulness": 5,
+      "helpfulness": 4,
+      "readability": 4,
+      "consistency": 4
+    },
+    {
+      "faithfulness": 4,
+      "helpfulness": 4,
+      "readability": 5,
+      "consistency": 4
+    },
+    {
+      "faithfulness": 5,
+      "helpfulness": 4,
+      "readability": 5,
+      "consistency": 5
+    },
+    {
+      "faithfulness": 4,
+      "helpfulness": 3,
+      "readability": 5,
+      "consistency": 4
+    },
+    {
+      "faithfulness": 5,
+      "helpfulness": 4,
+      "readability": 5,
+      "consistency": 5
+    },
+    {
+      "faithfulness": 5,
+      "helpfulness": 5,
+      "readability": 5,
+      "consistency": 5
+    },
+    {
+      "faithfulness": 5,
+      "helpfulness": 4,
+      "readability": 5,
+      "consistency": 5
+    },
+    {
+      "faithfulness": 4,
+      "helpfulness": 3,
+      "readability": 5,
+      "consistency": 4
+    },
+    {
+      "faithfulness": 4,
+      "helpfulness": 4,
+      "readability": 5,
+      "consistency": 5
+    },
+    {
+      "faithfulness": 5,
+      "helpfulness": 4,
+      "readability": 5,
+      "consistency": 5
+    }
+  ]
+}
