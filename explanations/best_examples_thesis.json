@@ -1,0 +1,262 @@
+[
+  {
+    "user": "U_100090",
+    "course_name": "Start a new business",
+    "ekgat": "Recommended: Start a new business. Path: User → interacted with → Introduction to Business: 10 lessons to take you into the business world → shares concept → Net assets → concept of → Start a new business.",
+    "llmkger": "Considering your background in \"Introduction to Business\" and \"Starting a business\", I recommend \"Starting a New Enterprise\" to further explore business administration. This course, taught by Professor Jian Gao, aligns with your interests. It's a great next step, building on your knowledge from \"Green Innovation Theory and Practice\" and \"Innovation and Entrepreneurship Practice in the Intelligent Era\".",
+    "history": [
+      "Introduction to Business: 10 lessons to take you into the business world",
+      "Starting a business",
+      "Green Innovation Theory and Practice",
+      "Marketing changes in the Internet era",
+      "Innovation and Entrepreneurship Practice in the Intelligent Era"
+    ],
+    "concepts": [
+      "Net assets",
+      "Project risk",
+      "Pseudo-demand",
+      "The present value of continuous value",
+      "Performance contract"
+    ],
+    "missing_prereqs": [
+      "Changes in fair value",
+      "Financial assets",
+      "Profit manipulation",
+      "Direct channel"
+    ]
+  },
+  {
+    "user": "U_1000902",
+    "course_name": "software engineering",
+    "ekgat": "Recommended: software engineering. Path: User → interacted with → software testing → shares concept → System class → concept of → software engineering.",
+    "llmkger": "You've completed software testing, software architecture, and Database Systems, which is great background for software engineering. This course covers key topics like System class and Feature Model, building on your existing knowledge. Associate Professor Qiang Liu from Tsinghua University will guide you. To prepare, reviewing Record set and von Neumann architecture will be helpful.",
+    "history": [
+      "software testing",
+      "software architecture",
+      "Database Systems (Medium): Modeling and Design",
+      "Database Technology and Programming",
+      "C++ language programming advanced"
+    ],
+    "concepts": [
+      "System class",
+      "Control code",
+      "Enable",
+      "Large data volume",
+      "Design Contract"
+    ],
+    "missing_prereqs": [
+      "Record set",
+      "Window Move",
+      "von Neumann architecture",
+      "Operational expressions"
+    ]
+  },
+  {
+    "user": "U_1002389",
+    "course_name": "Basic Human Biology: Cells and Tissues",
+    "ekgat": "Recommended: Basic Human Biology: Cells and Tissues. Path: User → interacted with → Laser and its applications → shares concept → Cells and tissues → concept of → Basic Human Biology: Cells and Tissues.",
+    "llmkger": "You've explored various tech and neuroscience fields, including Laser and its applications and Cognitive Neuroscience. Now, diving into Basic Human Biology: Cells and Tissues can offer a fresh, complementary perspective. Femke Buisman-Pijlman's course can help you build a strong foundation, and reviewing The surface of the cell and Gel electrophoresis beforehand will be beneficial.",
+    "history": [
+      "Laser and its applications",
+      "Neural network theory and applications",
+      "Flexible electronics technology",
+      "LCD technology",
+      "cognitive neuroscience"
+    ],
+    "concepts": [
+      "Cells and tissues",
+      "Neurons",
+      "Extracellular proteins",
+      "Chemical Signal",
+      "Aquatic channel protein"
+    ],
+    "missing_prereqs": [
+      "The surface of the cell",
+      "Meat leaf cells",
+      "Gel electrophoresis",
+      "Transmembrane transport"
+    ]
+  },
+  {
+    "user": "U_100281",
+    "course_name": "English Writing Guidance—Introduction to Writing",
+    "ekgat": "Recommended: English Writing Guidance—Introduction to Writing. Path: User → interacted with → dynamics → shares concept → blogs → concept of → English Writing Guidance—Introduction to Writing.",
+    "llmkger": "I recommend English Writing Guidance—Introduction to Writing, a great next step after your diverse courses like Medicine in the digital age and Entrepreneurship 102. This new direction will help you develop writing skills. Maggie Sokolik will guide you through key topics like comma usage.",
+    "history": [
+      "dynamics",
+      "Medicine in the digital age",
+      "Entrepreneurship 102: What can you do for your customers?",
+      "English film and culture",
+      "AP* Test Prep—Biology, Part 3: Evolution and Diversity"
+    ],
+    "concepts": [
+      "blogs",
+      "quotations",
+      "comma",
+      "blog",
+      "verbs."
+    ],
+    "missing_prereqs": [
+      "english language",
+      "previous research",
+      "poets",
+      "start reading"
+    ]
+  },
+  {
+    "user": "U_10032068",
+    "course_name": "British and American Music and Culture",
+    "ekgat": "Recommended: British and American Music and Culture. Path: User → interacted with → Overview of national conditions and culture of Spanish-speaking countries → shares concept → english language → concept of → British and American Music and Culture.",
+    "llmkger": "You've already explored English-speaking countries and developed your Conversational English Skills, so British and American Music and Culture is a great next step. This course offers a new direction, delving into music and culture, with Instructor Pingdi Zhou. It's a chance to learn authentic English while discovering your favorite artists.",
+    "history": [
+      "Overview of national conditions and culture of Spanish-speaking countries",
+      "Conversational English Skills",
+      "College English seven ability development",
+      "Overview of English-speaking Countries——Overview·Bowen",
+      "Introduction to \"Zi Zhi Tong Jian\""
+    ],
+    "concepts": [
+      "english language",
+      "pieces",
+      "great britain",
+      "aspect",
+      "criticized"
+    ],
+    "missing_prereqs": [
+      "blogs",
+      "adverbs",
+      "blog",
+      "surveying"
+    ]
+  },
+  {
+    "user": "U_1003625",
+    "course_name": "computer network",
+    "ekgat": "Recommended: computer network. Path: User → interacted with → Computer culture basics → shares concept → Window Move → concept of → computer network.",
+    "llmkger": "You've completed a solid foundation with Computer culture basics, Compilation principle, and Data structure (Part 1). Now, I recommend exploring Computer network, a new direction that can broaden your skills. Associate Professor 杜广龙 will guide you through key topics like Window Move and Network communication. This course is a great next step, and preparing with Typical power and Record set will be helpful.",
+    "history": [
+      "Computer culture basics",
+      "Compilation principle",
+      "Assembly language programming",
+      "Data structure (Part 1)",
+      "advanced operating system"
+    ],
+    "concepts": [
+      "Window Move",
+      "Network related",
+      "imap server",
+      "Transmission Service",
+      "Multimedia applications"
+    ],
+    "missing_prereqs": [
+      "Typical power",
+      "Record set",
+      "Information block",
+      "Called function"
+    ]
+  },
+  {
+    "user": "U_10036806",
+    "course_name": "Probability Theory and Mathematical Statistics",
+    "ekgat": "Recommended: Probability Theory and Mathematical Statistics. Path: User → interacted with → Calculus - Limit theory and functions of one variable → shares concept → Endpoint drop → concept of → Probability Theory and Mathematical Statistics.",
+    "llmkger": "You've completed a strong foundation in Calculus and Principles of Economics, which will serve you well. Now, I recommend exploring Probability Theory and Mathematical Statistics, a new direction that can enrich your understanding of random phenomena. This course, taught by Associate Professor Heng Liang, can be a great next step.",
+    "history": [
+      "Calculus - Limit theory and functions of one variable",
+      "Introduction to Chinese Economy",
+      "Living English Reading and Writing",
+      "accounting principles",
+      "Principles of Economics (Micro Part)"
+    ],
+    "concepts": [
+      "Endpoint drop",
+      "Probability calculation deduction",
+      "Non-negative axiom",
+      "Generalized Newtonian binomial formula",
+      "Density function of normal distribution"
+    ],
+    "missing_prereqs": [
+      "Function changes",
+      "Large matrix",
+      "A collection of solutions",
+      "Addition of vectors"
+    ]
+  },
+  {
+    "user": "U_1006407",
+    "course_name": "College Physics 2 (Electromagnetism, Optics and Quantum Physics)",
+    "ekgat": "Recommended: College Physics 2 (Electromagnetism, Optics and Quantum Physics). Path: User → interacted with → Residential refined design → shares concept → Charge distribution given → concept of → College Physics 2 (Electromagnetism, Optics and Quantum Physics).",
+    "llmkger": "You're ready to build on your foundation in College Physics 1 (Mechanics, Thermal). College Physics 2 (Electromagnetism, Optics and Quantum Physics) is a great next step, and Professor 张留碗 will guide you through it. This course will introduce new concepts, and reviewing electrostatic potential will be helpful preparation.",
+    "history": [
+      "Residential refined design",
+      "College Physics 1 (Mechanics, Thermal)",
+      "Traditional Chinese Medicine and Diagnosis-Learn to be your own doctor",
+      "Precision guide technology",
+      "Introduction to \"Zi Zhi Tong Jian\""
+    ],
+    "concepts": [
+      "Charge distribution given",
+      "Ridber Formula",
+      "Free charge in the conductor",
+      "Radiated electromagnetic waves",
+      "track"
+    ],
+    "missing_prereqs": [
+      "Electrostatic potential",
+      "Simple expression",
+      "Proof function",
+      "Changyi Points"
+    ]
+  },
+  {
+    "user": "U_10135999",
+    "course_name": "photojournalism",
+    "ekgat": "Recommended: photojournalism. Path: User → interacted with → Basic principles of Marxism → shares concept → Border wire mesh → concept of → photojournalism.",
+    "llmkger": "I think you'll find photojournalism fascinating, a new direction from your studies like \"Basic principles of Marxism\" and \"Introduction to 'Zi Zhi Tong Jian'\". This course, taught by Associate Professor Junjian Liang, can help you develop new skills. Preparation in areas like Symbolism will be helpful.",
+    "history": [
+      "Basic principles of Marxism",
+      "2017 Tsinghua University graduate thesis defense (1)",
+      "Introduction to \"Zi Zhi Tong Jian\"",
+      "operations management",
+      "An introduction to Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics"
+    ],
+    "concepts": [
+      "Border wire mesh",
+      "Russian Prime Minister",
+      "New Pope Election",
+      "Art creation",
+      "Active analysis"
+    ],
+    "missing_prereqs": [
+      "Symbolism",
+      "Abstract Expressionism",
+      "Modern painting",
+      "Traditional painting"
+    ]
+  },
+  {
+    "user": "U_10136534",
+    "course_name": "Marketing in life",
+    "ekgat": "Recommended: Marketing in life. Path: User → interacted with → Principles of Economics (Micro Part) → shares concept → Marketing process → concept of → Marketing in life.",
+    "llmkger": "Considering your background in Principles of Economics and Marketing, I think \"Marketing in life\" is a great next step. Having completed Microeconomics and Principles of Economics, you're well-prepared to dive deeper into marketing concepts. Associate Professor Yuanyuan Li will guide you through this course, exploring topics like Marketing process and Public service advertising. This course is a new direction, but a great opportunity to apply your knowledge in a new way.",
+    "history": [
+      "Principles of Economics (Micro Part)",
+      "Marketing",
+      "Microeconomics",
+      "From \"Entrance\" to \"Exit\": Plan your college life",
+      "Principles of Economics (Macro Part)"
+    ],
+    "concepts": [
+      "Marketing process",
+      "Customer service level",
+      "Modern marketing concepts",
+      "Public service advertising",
+      "Inspire consumers"
+    ],
+    "missing_prereqs": [
+      "accounts receivable",
+      "Market construction",
+      "Delay",
+      "Net profit margin"
+    ]
+  }
+]
